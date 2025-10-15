@@ -1,4 +1,25 @@
+version: '3.7' # Lub nowsza wersja
+
 services:
+  # ----------------------------------------------------
+  # 1. Nowy serwis: Mosquitto MQTT Broker
+  # ----------------------------------------------------
+  mosquitto:
+    image: eclipse-mosquitto:latest
+    container_name: mosquitto
+    restart: always
+    ports:
+      - "1883:1883" # Standardowy port MQTT
+      - "9001:9001" # Port dla WebSockets (opcjonalny)
+    volumes:
+      # Utwórz te katalogi lokalnie: mosquitto/config, mosquitto/data, mosquitto/log
+      - ./mosquitto/config:/mosquitto/config:ro # Wymagany plik mosquitto.conf
+      - ./mosquitto/data:/mosquitto/data        # Persistent data (np. mosquitto.db)
+      - ./mosquitto/log:/mosquitto/log          # Logi brokera
+
+  # ----------------------------------------------------
+  # 2. InfluxDB3 (bez zmian, do celów referencyjnych)
+  # ----------------------------------------------------
   influxdb3-core:
     container_name: influxdb3-core
     image: influxdb:3-core
@@ -19,13 +40,17 @@ services:
       retries: 3
     restart: unless-stopped
 
+  # ----------------------------------------------------
+  # 3. Telegraf (Dodano zależność od Mosquitto)
+  # ----------------------------------------------------
   telegraf:
     container_name: telegraf
     image: telegraf
     depends_on:
       influxdb3-core:
         condition: service_healthy
-    # Optionally, you can switch to depend on influxdb3-enterprise if using that
+      mosquitto: # Dodano zależność od Mosquitto
+        condition: service_started 
     environment:
       - INFLUXDB_HOST=${INFLUXDB_HOST}
       - INFLUXDB_TOKEN=${INFLUXDB_TOKEN}
@@ -34,21 +59,30 @@ services:
       - TELEGRAF_COLLECTION_INTERVAL=${TELEGRAF_COLLECTION_INTERVAL}
       - HOSTNAME=telegraf
     volumes:
+      # Pamiętaj, aby zaktualizować ten plik zgodnie z punktem 4!
       - ./telegraf/telegraf.conf:/etc/telegraf/telegraf.conf
     restart: unless-stopped
 
+  # ----------------------------------------------------
+  # 4. Grafana (bez zmian)
+  # ----------------------------------------------------
   grafana:
     image: grafana/grafana
     ports:
       - "${GRAFANA_PORT}:3000"
     volumes:
       - grafana_data:/var/lib/grafana
+      # Jeśli dodajesz grafana.ini, zachowaj tę linię:
+      - ./grafana/config/grafana.ini:/etc/grafana/grafana.ini:ro
     environment:
       - GF_SECURITY_ADMIN_USER=${GRAFANA_ADMIN_USER}
       - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_ADMIN_PASSWORD}
+      # ----------------------------------------------------
+      # DODAJ TĘ KRYTYCZNĄ LINIĘ:
+      - GF_INFLUXDB_TLS_SKIP_VERIFY=true
+      # ----------------------------------------------------
     depends_on:
       - influxdb3-core
-    # Or switch to influxdb3-enterprise as needed
     restart: unless-stopped
 
 volumes:

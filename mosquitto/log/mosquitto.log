@@ -1,0 +1,2313 @@
+1759171276: mosquitto version 2.0.22 starting
+1759171276: Config loaded from /mosquitto/config/mosquitto.conf.
+1759171276: Opening ipv4 listen socket on port 1883.
+1759171276: Opening ipv6 listen socket on port 1883.
+1759171276: mosquitto version 2.0.22 running
+1759171338: New connection from 172.18.0.1:47270 on port 1883.
+1759171338: New client connected from 172.18.0.1:47270 as TrafficSimulator (p2, c1, k60).
+1759171650: mosquitto version 2.0.22 terminating
+1759171650: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759171694: mosquitto version 2.0.22 starting
+1759171694: Config loaded from /mosquitto/config/mosquitto.conf.
+1759171694: Opening ipv4 listen socket on port 1883.
+1759171694: Opening ipv6 listen socket on port 1883.
+1759171694: Opening websockets listen socket on port 9001.
+1759171694: mosquitto version 2.0.22 running
+1759172098: mosquitto version 2.0.22 terminating
+1759172098: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759172205: mosquitto version 2.0.22 starting
+1759172205: Config loaded from /mosquitto/config/mosquitto.conf.
+1759172205: Opening ipv4 listen socket on port 1883.
+1759172205: Opening ipv6 listen socket on port 1883.
+1759172205: Opening websockets listen socket on port 9001.
+1759172205: mosquitto version 2.0.22 running
+1759172236: New connection from 172.18.0.5:51684 on port 1883.
+1759172236: New client connected from 172.18.0.5:51684 as Telegraf-Consumer-Xvizk (p2, c1, k60, u'Twoja_nazwa_uzytkownika').
+1759172294: New connection from 172.18.0.1:53992 on port 1883.
+1759172294: New client connected from 172.18.0.1:53992 as TrafficSimulator (p2, c1, k60).
+1759173137: Client Telegraf-Consumer-Xvizk disconnected.
+1759173168: mosquitto version 2.0.22 terminating
+1759173168: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759173170: mosquitto version 2.0.22 starting
+1759173170: Config loaded from /mosquitto/config/mosquitto.conf.
+1759173170: Opening ipv4 listen socket on port 1883.
+1759173170: Opening ipv6 listen socket on port 1883.
+1759173170: Opening websockets listen socket on port 9001.
+1759173170: mosquitto version 2.0.22 running
+1759173200: mosquitto version 2.0.22 terminating
+1759173200: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759173294: mosquitto version 2.0.22 starting
+1759173294: Config loaded from /mosquitto/config/mosquitto.conf.
+1759173294: Opening ipv4 listen socket on port 1883.
+1759173294: Opening ipv6 listen socket on port 1883.
+1759173294: Opening websockets listen socket on port 9001.
+1759173294: mosquitto version 2.0.22 running
+1759174674: mosquitto version 2.0.22 terminating
+1759174674: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759174687: mosquitto version 2.0.22 starting
+1759174687: Config loaded from /mosquitto/config/mosquitto.conf.
+1759174687: Opening ipv4 listen socket on port 1883.
+1759174687: Opening ipv6 listen socket on port 1883.
+1759174687: Opening websockets listen socket on port 9001.
+1759174687: mosquitto version 2.0.22 running
+1759175036: mosquitto version 2.0.22 terminating
+1759175036: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759175135: mosquitto version 2.0.22 starting
+1759175135: Config loaded from /mosquitto/config/mosquitto.conf.
+1759175135: Opening ipv4 listen socket on port 1883.
+1759175135: Opening ipv6 listen socket on port 1883.
+1759175135: Opening websockets listen socket on port 9001.
+1759175135: mosquitto version 2.0.22 running
+1759175292: New connection from 172.18.0.1:57354 on port 1883.
+1759175293: New client connected from 172.18.0.1:57354 as TrafficSimulator (p2, c1, k60).
+1759175595: mosquitto version 2.0.22 terminating
+1759175595: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759175597: mosquitto version 2.0.22 starting
+1759175597: Config loaded from /mosquitto/config/mosquitto.conf.
+1759175597: Opening ipv4 listen socket on port 1883.
+1759175597: Opening ipv6 listen socket on port 1883.
+1759175597: Opening websockets listen socket on port 9001.
+1759175597: mosquitto version 2.0.22 running
+1759175789: mosquitto version 2.0.22 terminating
+1759175789: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759175865: mosquitto version 2.0.22 starting
+1759175865: Config loaded from /mosquitto/config/mosquitto.conf.
+1759175865: Opening ipv4 listen socket on port 1883.
+1759175865: Opening ipv6 listen socket on port 1883.
+1759175865: Opening websockets listen socket on port 9001.
+1759175865: mosquitto version 2.0.22 running
+1759175881: New connection from 172.18.0.1:44020 on port 1883.
+1759175881: New client connected from 172.18.0.1:44020 as TrafficSimulator (p2, c1, k60).
+1759176034: New connection from 172.18.0.5:47022 on port 1883.
+1759176034: New client connected from 172.18.0.5:47022 as Telegraf-Consumer-DtD73 (p2, c1, k60).
+1759177480: Client Telegraf-Consumer-DtD73 disconnected.
+1759177481: mosquitto version 2.0.22 terminating
+1759177481: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759177704: mosquitto version 2.0.22 starting
+1759177704: Config loaded from /mosquitto/config/mosquitto.conf.
+1759177704: Opening ipv4 listen socket on port 1883.
+1759177704: Opening ipv6 listen socket on port 1883.
+1759177704: Opening websockets listen socket on port 9001.
+1759177704: mosquitto version 2.0.22 running
+1759177705: New connection from 172.18.0.5:36460 on port 1883.
+1759177705: New client connected from 172.18.0.5:36460 as Telegraf-Consumer-bjKGG (p2, c1, k60).
+1759177850: New connection from 172.18.0.1:43826 on port 1883.
+1759177850: New client connected from 172.18.0.1:43826 as TrafficSimulator (p2, c1, k60).
+1759178139: Client TrafficSimulator closed its connection.
+1759178150: Client Telegraf-Consumer-bjKGG disconnected.
+1759178150: mosquitto version 2.0.22 terminating
+1759178150: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759216966: mosquitto version 2.0.22 starting
+1759216966: Config loaded from /mosquitto/config/mosquitto.conf.
+1759216966: Opening ipv4 listen socket on port 1883.
+1759216966: Opening ipv6 listen socket on port 1883.
+1759216966: Opening websockets listen socket on port 9001.
+1759216966: mosquitto version 2.0.22 running
+1759216998: New connection from 172.18.0.5:56534 on port 1883.
+1759216998: New client connected from 172.18.0.5:56534 as Telegraf-Consumer-5BMwI (p2, c1, k60).
+1759218766: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759220567: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759222352: New connection from 172.18.0.1:56350 on port 1883.
+1759222352: New client connected from 172.18.0.1:56350 as TrafficSimulator (p2, c1, k60).
+1759223032: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759224833: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759226634: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759228325: Client TrafficSimulator closed its connection.
+1759230072: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759231873: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759233674: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759234430: Client Telegraf-Consumer-5BMwI disconnected.
+1759234430: mosquitto version 2.0.22 terminating
+1759234430: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759237635: mosquitto version 2.0.22 starting
+1759237635: Config loaded from /mosquitto/config/mosquitto.conf.
+1759237635: Opening ipv4 listen socket on port 1883.
+1759237635: Opening ipv6 listen socket on port 1883.
+1759237635: Opening websockets listen socket on port 9001.
+1759237635: mosquitto version 2.0.22 running
+1759237752: New connection from 172.18.0.5:46836 on port 1883.
+1759237752: New client connected from 172.18.0.5:46836 as Telegraf-Consumer-SstMF (p2, c1, k60).
+1759237781: New connection from 172.18.0.1:49110 on port 1883.
+1759237781: New client connected from 172.18.0.1:49110 as TrafficSimulator (p2, c1, k60).
+1759237783: New connection from 172.18.0.1:45574 on port 1883.
+1759237783: Client TrafficSimulator already connected, closing old connection.
+1759237783: New client connected from 172.18.0.1:45574 as TrafficSimulator (p2, c1, k60).
+1759237937: New connection from 172.18.0.1:39104 on port 1883.
+1759237937: New client connected from 172.18.0.1:39104 as 61bc7ebf-dd28-48d7-b08c-d5002cc44850 (p2, c1, k60).
+1759237961: Client 61bc7ebf-dd28-48d7-b08c-d5002cc44850 disconnected.
+1759238174: New connection from 172.18.0.1:43072 on port 1883.
+1759238174: New client connected from 172.18.0.1:43072 as eaee4101-35ef-4b82-8e13-2bdfd5e4f4f5 (p2, c1, k60).
+1759238194: Client eaee4101-35ef-4b82-8e13-2bdfd5e4f4f5 disconnected.
+1759238459: New connection from 172.18.0.1:41654 on port 1883.
+1759238459: New client connected from 172.18.0.1:41654 as 60c02574-4be8-4419-8e7b-3f23ee15c536 (p2, c1, k60).
+1759238505: Client 60c02574-4be8-4419-8e7b-3f23ee15c536 disconnected.
+1759238585: New connection from 172.18.0.1:45276 on port 1883.
+1759238585: New client connected from 172.18.0.1:45276 as e8d859ac-8d82-447a-977d-accd428b461f (p2, c1, k60).
+1759238797: Client e8d859ac-8d82-447a-977d-accd428b461f disconnected.
+1759238832: New connection from 172.18.0.1:41958 on port 1883.
+1759238832: New client connected from 172.18.0.1:41958 as c874a44d-c9c4-4de0-8926-9df4dbeba7b7 (p2, c1, k60).
+1759239218: Client TrafficSimulator closed its connection.
+1759239222: New connection from 172.18.0.1:34934 on port 1883.
+1759239222: New client connected from 172.18.0.1:34934 as TrafficSimulator (p2, c1, k60).
+1759239435: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759239527: Client TrafficSimulator closed its connection.
+1759239531: Client c874a44d-c9c4-4de0-8926-9df4dbeba7b7 disconnected.
+1759239839: New connection from 172.18.0.1:33498 on port 1883.
+1759239839: New client connected from 172.18.0.1:33498 as 7c562173-239e-4842-8d08-ad08c2f37b68 (p2, c1, k60).
+1759239846: Client 7c562173-239e-4842-8d08-ad08c2f37b68 disconnected.
+1759241236: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759243037: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759243372: New connection from 172.18.0.1:36644 on port 1883.
+1759243372: New client connected from 172.18.0.1:36644 as TrafficSimulator (p2, c1, k60).
+1759243386: New connection from 172.18.0.1:57920 on port 1883.
+1759243386: New client connected from 172.18.0.1:57920 as 9097cacd-7536-4b9b-ae12-fb2775f43166 (p2, c1, k60).
+1759243565: Client 9097cacd-7536-4b9b-ae12-fb2775f43166 disconnected.
+1759243567: Client TrafficSimulator closed its connection.
+1759244121: Client Telegraf-Consumer-SstMF disconnected.
+1759244121: mosquitto version 2.0.22 terminating
+1759244121: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759304539: mosquitto version 2.0.22 starting
+1759304539: Config loaded from /mosquitto/config/mosquitto.conf.
+1759304539: Opening ipv4 listen socket on port 1883.
+1759304539: Opening ipv6 listen socket on port 1883.
+1759304539: Opening websockets listen socket on port 9001.
+1759304539: mosquitto version 2.0.22 running
+1759304571: New connection from 172.18.0.5:35128 on port 1883.
+1759304571: New client connected from 172.18.0.5:35128 as Telegraf-Consumer-rhn13 (p2, c1, k60).
+1759304593: New connection from 172.18.0.1:47208 on port 1883.
+1759304593: New client connected from 172.18.0.1:47208 as TrafficSimulator (p2, c1, k60).
+1759304718: New connection from 172.18.0.1:48306 on port 1883.
+1759304718: New client connected from 172.18.0.1:48306 as 66eedaf5-a7b2-4842-a4bf-b0bd8858c3c2 (p2, c1, k60).
+1759304917: Client TrafficSimulator closed its connection.
+1759305082: Client 66eedaf5-a7b2-4842-a4bf-b0bd8858c3c2 closed its connection.
+1759305095: New connection from 172.18.0.1:56224 on port 1883.
+1759305095: New client connected from 172.18.0.1:56224 as 65f1fc71-1f83-4b2c-a73f-0db5df087353 (p2, c1, k60).
+1759305099: Client 65f1fc71-1f83-4b2c-a73f-0db5df087353 disconnected.
+1759305110: New connection from 172.18.0.1:51554 on port 1883.
+1759305110: New client connected from 172.18.0.1:51554 as TrafficSimulator (p2, c1, k60).
+1759305118: New connection from 172.18.0.1:59720 on port 1883.
+1759305118: New client connected from 172.18.0.1:59720 as 5d195579-777d-480f-bae1-234f44444ae1 (p2, c1, k60).
+1759305165: Client TrafficSimulator closed its connection.
+1759305168: New connection from 172.18.0.1:41602 on port 1883.
+1759305168: New client connected from 172.18.0.1:41602 as TrafficSimulator (p2, c1, k60).
+1759305192: Client 5d195579-777d-480f-bae1-234f44444ae1 disconnected.
+1759305231: Client TrafficSimulator closed its connection.
+1759305464: New connection from 172.18.0.1:43884 on port 1883.
+1759305464: New client connected from 172.18.0.1:43884 as 8c905921-a09b-43ff-adfc-18dbe7da3d1f (p2, c1, k60).
+1759305466: New connection from 172.18.0.1:43892 on port 1883.
+1759305466: New client connected from 172.18.0.1:43892 as TrafficSimulator (p2, c1, k60).
+1759305746: Client 8c905921-a09b-43ff-adfc-18dbe7da3d1f disconnected.
+1759305834: New connection from 172.18.0.1:56486 on port 1883.
+1759305834: New client connected from 172.18.0.1:56486 as 0289cad7-c390-410c-b969-f66533b62c14 (p2, c1, k60).
+1759305918: Client 0289cad7-c390-410c-b969-f66533b62c14 disconnected.
+1759306110: New connection from 172.18.0.1:33712 on port 1883.
+1759306110: New client connected from 172.18.0.1:33712 as a9f4ede4-f08c-4a65-99cd-7b3304f99324 (p2, c1, k60).
+1759306340: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759306466: Client a9f4ede4-f08c-4a65-99cd-7b3304f99324 disconnected.
+1759306497: New connection from 172.18.0.1:39668 on port 1883.
+1759306497: New client connected from 172.18.0.1:39668 as 85510766-e8b2-4138-b7ad-27044359dbb9 (p2, c1, k60).
+1759306512: Client 85510766-e8b2-4138-b7ad-27044359dbb9 disconnected.
+1759306835: New connection from 172.18.0.1:55666 on port 1883.
+1759306835: New client connected from 172.18.0.1:55666 as 648fb1e0-74b0-4731-b832-3362f23cd574 (p2, c1, k60).
+1759306944: Client TrafficSimulator closed its connection.
+1759306945: Client 648fb1e0-74b0-4731-b832-3362f23cd574 disconnected.
+1759306949: New connection from 172.18.0.1:38648 on port 1883.
+1759306949: New client connected from 172.18.0.1:38648 as TrafficSimulator (p2, c1, k60).
+1759306957: New connection from 172.18.0.1:39068 on port 1883.
+1759306957: New client connected from 172.18.0.1:39068 as 8db5a5e4-1e6a-4b78-971b-dd0050f7a2e0 (p2, c1, k60).
+1759306987: Client 8db5a5e4-1e6a-4b78-971b-dd0050f7a2e0 disconnected.
+1759307542: Client TrafficSimulator closed its connection.
+1759307765: New connection from 172.18.0.1:33110 on port 1883.
+1759307766: New client connected from 172.18.0.1:33110 as TrafficSimulator (p2, c1, k60).
+1759307828: Client TrafficSimulator closed its connection.
+1759308141: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759308340: New connection from 172.18.0.1:59802 on port 1883.
+1759308340: New client connected from 172.18.0.1:59802 as TrafficSimulator (p2, c1, k60).
+1759308354: New connection from 172.18.0.1:38856 on port 1883.
+1759308354: New client connected from 172.18.0.1:38856 as badb7560-3798-4c7a-95d9-13a5890fad93 (p2, c1, k60).
+1759308422: Client TrafficSimulator closed its connection.
+1759308728: New connection from 172.18.0.1:39174 on port 1883.
+1759308728: New client connected from 172.18.0.1:39174 as TrafficSimulator (p2, c1, k60).
+1759308742: Client badb7560-3798-4c7a-95d9-13a5890fad93 disconnected.
+1759308747: New connection from 172.18.0.1:60838 on port 1883.
+1759308747: New client connected from 172.18.0.1:60838 as b6997098-4341-4ebf-a255-74ae45b08b79 (p2, c1, k60).
+1759308798: Client TrafficSimulator closed its connection.
+1759308824: New connection from 172.18.0.1:53262 on port 1883.
+1759308824: New client connected from 172.18.0.1:53262 as TrafficSimulator (p2, c1, k60).
+1759308988: Client TrafficSimulator closed its connection.
+1759309361: New connection from 172.18.0.1:44482 on port 1883.
+1759309361: New client connected from 172.18.0.1:44482 as TrafficSimulator (p2, c1, k60).
+1759309367: Client b6997098-4341-4ebf-a255-74ae45b08b79 disconnected.
+1759309372: New connection from 172.18.0.1:52498 on port 1883.
+1759309372: New client connected from 172.18.0.1:52498 as 95a71e6c-30cf-4da1-b27c-32fd59fb1018 (p2, c1, k60).
+1759309463: Client 95a71e6c-30cf-4da1-b27c-32fd59fb1018 disconnected.
+1759309469: New connection from 172.18.0.1:33356 on port 1883.
+1759309469: New client connected from 172.18.0.1:33356 as d8a5355c-9d8d-4991-a2a8-d0a129df05e2 (p2, c1, k60).
+1759311287: Client TrafficSimulator closed its connection.
+1759311289: Client d8a5355c-9d8d-4991-a2a8-d0a129df05e2 disconnected.
+1759311347: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759313148: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759318693: New connection from 172.18.0.1:48158 on port 1883.
+1759318694: New client connected from 172.18.0.1:48158 as TrafficSimulator (p2, c1, k60).
+1759318723: New connection from 172.18.0.1:47352 on port 1883.
+1759318723: New client connected from 172.18.0.1:47352 as 8b0aa91a-c3f8-4046-b23b-fd5d3d95a835 (p2, c1, k60).
+1759318799: Client 8b0aa91a-c3f8-4046-b23b-fd5d3d95a835 disconnected.
+1759319102: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759320921: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759324152: Client TrafficSimulator closed its connection.
+1759324271: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759324621: New connection from 172.18.0.1:38402 on port 1883.
+1759324621: New client connected from 172.18.0.1:38402 as TrafficSimulator (p2, c1, k60).
+1759324631: New connection from 172.18.0.1:58764 on port 1883.
+1759324631: New client connected from 172.18.0.1:58764 as cb3e10bc-110d-40f9-94f3-c21d767867d9 (p2, c1, k60).
+1759324752: Client cb3e10bc-110d-40f9-94f3-c21d767867d9 disconnected.
+1759324753: Client TrafficSimulator closed its connection.
+1759329250: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759330724: Client Telegraf-Consumer-rhn13 disconnected.
+1759330724: mosquitto version 2.0.22 terminating
+1759330724: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759994627: mosquitto version 2.0.22 starting
+1759994627: Config loaded from /mosquitto/config/mosquitto.conf.
+1759994627: Opening ipv4 listen socket on port 1883.
+1759994627: Opening ipv6 listen socket on port 1883.
+1759994627: Opening websockets listen socket on port 9001.
+1759994627: mosquitto version 2.0.22 running
+1759994628: New connection from 172.18.0.1:60936 on port 1883.
+1759994628: New client connected from 172.18.0.1:60936 as ArduinoTrafficLight (p2, c1, k15).
+1759994740: New connection from 172.18.0.5:46396 on port 1883.
+1759994740: New client connected from 172.18.0.5:46396 as Telegraf-Consumer-BruoJ (p2, c1, k60).
+1759994863: Client ArduinoTrafficLight closed its connection.
+1759994866: New connection from 172.18.0.1:60486 on port 1883.
+1759994866: New client connected from 172.18.0.1:60486 as ArduinoTrafficLight (p2, c1, k15).
+1759995546: New connection from ::1:38822 on port 1883.
+1759995546: New client connected from ::1:38822 as auto-E57214AE-9640-D957-66F2-7ED67FE3475A (p2, c1, k60).
+1759995650: Client ArduinoTrafficLight closed its connection.
+1759995658: New connection from 172.18.0.1:45504 on port 1883.
+1759995658: New client connected from 172.18.0.1:45504 as ArduinoTrafficLight (p2, c1, k15).
+1759995934: Client ArduinoTrafficLight closed its connection.
+1759995942: New connection from 172.18.0.1:33452 on port 1883.
+1759995942: New client connected from 172.18.0.1:33452 as ArduinoTrafficLight (p2, c1, k15).
+1759996296: Client ArduinoTrafficLight closed its connection.
+1759996299: New connection from 172.18.0.1:57658 on port 1883.
+1759996299: New client connected from 172.18.0.1:57658 as ArduinoTrafficLight (p2, c1, k15).
+1759996442: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759998150: New connection from 172.18.0.1:60334 on port 1883.
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60334 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight closed its connection.
+1759998150: New connection from 172.18.0.1:60362 on port 1883.
+1759998150: New connection from 172.18.0.1:60366 on port 1883.
+1759998150: New connection from 172.18.0.1:60346 on port 1883.
+1759998150: New connection from 172.18.0.1:60382 on port 1883.
+1759998150: New connection from 172.18.0.1:60392 on port 1883.
+1759998150: New connection from 172.18.0.1:60404 on port 1883.
+1759998150: New connection from 172.18.0.1:60414 on port 1883.
+1759998150: New connection from 172.18.0.1:60428 on port 1883.
+1759998150: New connection from 172.18.0.1:60436 on port 1883.
+1759998150: New connection from 172.18.0.1:60450 on port 1883.
+1759998150: New connection from 172.18.0.1:60456 on port 1883.
+1759998150: New connection from 172.18.0.1:60460 on port 1883.
+1759998150: New connection from 172.18.0.1:60474 on port 1883.
+1759998150: New connection from 172.18.0.1:60484 on port 1883.
+1759998150: New connection from 172.18.0.1:60510 on port 1883.
+1759998150: New connection from 172.18.0.1:60498 on port 1883.
+1759998150: New connection from 172.18.0.1:60520 on port 1883.
+1759998150: New connection from 172.18.0.1:60532 on port 1883.
+1759998150: New connection from 172.18.0.1:60542 on port 1883.
+1759998150: New connection from 172.18.0.1:60544 on port 1883.
+1759998150: New connection from 172.18.0.1:60552 on port 1883.
+1759998150: New connection from 172.18.0.1:60578 on port 1883.
+1759998150: New connection from 172.18.0.1:60562 on port 1883.
+1759998150: New connection from 172.18.0.1:60592 on port 1883.
+1759998150: New connection from 172.18.0.1:60608 on port 1883.
+1759998150: New connection from 172.18.0.1:60620 on port 1883.
+1759998150: New connection from 172.18.0.1:60614 on port 1883.
+1759998150: New connection from 172.18.0.1:60630 on port 1883.
+1759998150: New connection from 172.18.0.1:60636 on port 1883.
+1759998150: New connection from 172.18.0.1:60650 on port 1883.
+1759998150: New connection from 172.18.0.1:60652 on port 1883.
+1759998150: New connection from 172.18.0.1:60674 on port 1883.
+1759998150: New connection from 172.18.0.1:60688 on port 1883.
+1759998150: New connection from 172.18.0.1:60706 on port 1883.
+1759998150: New connection from 172.18.0.1:60704 on port 1883.
+1759998150: New connection from 172.18.0.1:60722 on port 1883.
+1759998150: New connection from 172.18.0.1:60738 on port 1883.
+1759998150: New connection from 172.18.0.1:60754 on port 1883.
+1759998150: New connection from 172.18.0.1:60768 on port 1883.
+1759998150: New connection from 172.18.0.1:60784 on port 1883.
+1759998150: New connection from 172.18.0.1:60796 on port 1883.
+1759998150: New connection from 172.18.0.1:60822 on port 1883.
+1759998150: New connection from 172.18.0.1:60832 on port 1883.
+1759998150: New connection from 172.18.0.1:60842 on port 1883.
+1759998150: New connection from 172.18.0.1:60810 on port 1883.
+1759998150: New client connected from 172.18.0.1:60362 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60366 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60346 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60382 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60392 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60404 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60414 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60428 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60436 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60450 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60456 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60460 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60474 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60484 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60510 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60498 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60520 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60532 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60542 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60544 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60552 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60578 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60562 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60592 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60608 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60620 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60614 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60630 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60636 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60650 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60652 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60674 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60688 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60706 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60704 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60722 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60738 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60754 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60768 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60784 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60796 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60822 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60832 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60842 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight already connected, closing old connection.
+1759998150: New client connected from 172.18.0.1:60810 as ArduinoTrafficLight (p2, c1, k15).
+1759998150: Client ArduinoTrafficLight closed its connection.
+1759998299: New connection from 172.18.0.1:60850 on port 1883.
+1759998299: New client connected from 172.18.0.1:60850 as ArduinoTrafficLight (p2, c1, k15).
+1759998304: Client ArduinoTrafficLight closed its connection.
+1759998307: New connection from 172.18.0.1:35548 on port 1883.
+1759998307: New client connected from 172.18.0.1:35548 as ArduinoTrafficLight (p2, c1, k15).
+1759999184: New connection from 172.18.0.1:56048 on port 1883.
+1759999184: Client ArduinoTrafficLight already connected, closing old connection.
+1759999184: New client connected from 172.18.0.1:56048 as ArduinoTrafficLight (p2, c1, k15).
+1759999184: Client ArduinoTrafficLight closed its connection.
+1759999184: New connection from 172.18.0.1:56056 on port 1883.
+1759999184: New connection from 172.18.0.1:56070 on port 1883.
+1759999184: New connection from 172.18.0.1:56078 on port 1883.
+1759999184: New connection from 172.18.0.1:56092 on port 1883.
+1759999184: New connection from 172.18.0.1:56094 on port 1883.
+1759999184: New client connected from 172.18.0.1:56056 as ArduinoTrafficLight (p2, c1, k15).
+1759999184: Client ArduinoTrafficLight already connected, closing old connection.
+1759999184: New client connected from 172.18.0.1:56070 as ArduinoTrafficLight (p2, c1, k15).
+1759999184: Client ArduinoTrafficLight already connected, closing old connection.
+1759999184: New client connected from 172.18.0.1:56078 as ArduinoTrafficLight (p2, c1, k15).
+1759999184: Client ArduinoTrafficLight already connected, closing old connection.
+1759999184: New client connected from 172.18.0.1:56092 as ArduinoTrafficLight (p2, c1, k15).
+1759999184: Client ArduinoTrafficLight already connected, closing old connection.
+1759999184: New client connected from 172.18.0.1:56094 as ArduinoTrafficLight (p2, c1, k15).
+1759999333: Client ArduinoTrafficLight closed its connection.
+1759999336: New connection from 172.18.0.1:46082 on port 1883.
+1759999336: New client connected from 172.18.0.1:46082 as ArduinoTrafficLight (p2, c1, k15).
+1759999383: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1759999387: Client ArduinoTrafficLight closed its connection.
+1759999565: New connection from 172.18.0.1:50586 on port 1883.
+1759999565: New client connected from 172.18.0.1:50586 as ArduinoTrafficLight (p2, c1, k15).
+1760000135: New connection from 172.18.0.1:39852 on port 1883.
+1760000135: New connection from 172.18.0.1:39878 on port 1883.
+1760000135: New connection from 172.18.0.1:39864 on port 1883.
+1760000135: New connection from 172.18.0.1:39886 on port 1883.
+1760000135: New connection from 172.18.0.1:39862 on port 1883.
+1760000135: New connection from 172.18.0.1:39896 on port 1883.
+1760000135: New connection from 172.18.0.1:39906 on port 1883.
+1760000135: New connection from 172.18.0.1:39908 on port 1883.
+1760000135: New connection from 172.18.0.1:39914 on port 1883.
+1760000135: New connection from 172.18.0.1:39926 on port 1883.
+1760000135: New connection from 172.18.0.1:39932 on port 1883.
+1760000135: Client ArduinoTrafficLight already connected, closing old connection.
+1760000135: New client connected from 172.18.0.1:39852 as ArduinoTrafficLight (p2, c1, k15).
+1760000135: Client ArduinoTrafficLight already connected, closing old connection.
+1760000135: New client connected from 172.18.0.1:39878 as ArduinoTrafficLight (p2, c1, k15).
+1760000135: Client ArduinoTrafficLight already connected, closing old connection.
+1760000135: New client connected from 172.18.0.1:39864 as ArduinoTrafficLight (p2, c1, k15).
+1760000135: Client ArduinoTrafficLight already connected, closing old connection.
+1760000135: New client connected from 172.18.0.1:39886 as ArduinoTrafficLight (p2, c1, k15).
+1760000135: Client ArduinoTrafficLight already connected, closing old connection.
+1760000135: New client connected from 172.18.0.1:39862 as ArduinoTrafficLight (p2, c1, k15).
+1760000135: Client ArduinoTrafficLight already connected, closing old connection.
+1760000135: New client connected from 172.18.0.1:39896 as ArduinoTrafficLight (p2, c1, k15).
+1760000135: Client ArduinoTrafficLight already connected, closing old connection.
+1760000135: New client connected from 172.18.0.1:39906 as ArduinoTrafficLight (p2, c1, k15).
+1760000135: Client ArduinoTrafficLight already connected, closing old connection.
+1760000135: New client connected from 172.18.0.1:39908 as ArduinoTrafficLight (p2, c1, k15).
+1760000135: Client ArduinoTrafficLight already connected, closing old connection.
+1760000135: New client connected from 172.18.0.1:39914 as ArduinoTrafficLight (p2, c1, k15).
+1760000135: Client ArduinoTrafficLight already connected, closing old connection.
+1760000135: New client connected from 172.18.0.1:39926 as ArduinoTrafficLight (p2, c1, k15).
+1760000135: Client ArduinoTrafficLight already connected, closing old connection.
+1760000135: New client connected from 172.18.0.1:39932 as ArduinoTrafficLight (p2, c1, k15).
+1760000135: Client ArduinoTrafficLight closed its connection.
+1760000135: New connection from 172.18.0.1:39938 on port 1883.
+1760000135: New client connected from 172.18.0.1:39938 as ArduinoTrafficLight (p2, c1, k15).
+1760000388: Client ArduinoTrafficLight closed its connection.
+1760000392: New connection from 172.18.0.1:59468 on port 1883.
+1760000392: New client connected from 172.18.0.1:59468 as ArduinoTrafficLight (p2, c1, k15).
+1760010242: New connection from 172.18.0.1:34346 on port 1883.
+1760010242: New connection from 172.18.0.1:34358 on port 1883.
+1760010242: New connection from 172.18.0.1:34362 on port 1883.
+1760010242: New connection from 172.18.0.1:34376 on port 1883.
+1760010242: New connection from 172.18.0.1:34386 on port 1883.
+1760010242: New connection from 172.18.0.1:34396 on port 1883.
+1760010242: New connection from 172.18.0.1:34410 on port 1883.
+1760010242: New connection from 172.18.0.1:34416 on port 1883.
+1760010242: New connection from 172.18.0.1:34428 on port 1883.
+1760010242: New connection from 172.18.0.1:34444 on port 1883.
+1760010242: New connection from 172.18.0.1:34460 on port 1883.
+1760010242: New connection from 172.18.0.1:34468 on port 1883.
+1760010242: New connection from 172.18.0.1:34478 on port 1883.
+1760010242: New connection from 172.18.0.1:34476 on port 1883.
+1760010242: New connection from 172.18.0.1:34474 on port 1883.
+1760010242: New connection from 172.18.0.1:34472 on port 1883.
+1760010242: New connection from 172.18.0.1:34498 on port 1883.
+1760010242: New connection from 172.18.0.1:34504 on port 1883.
+1760010242: New connection from 172.18.0.1:34496 on port 1883.
+1760010242: New connection from 172.18.0.1:34516 on port 1883.
+1760010242: New connection from 172.18.0.1:34530 on port 1883.
+1760010242: New connection from 172.18.0.1:34536 on port 1883.
+1760010242: New connection from 172.18.0.1:34544 on port 1883.
+1760010242: New connection from 172.18.0.1:34558 on port 1883.
+1760010242: New connection from 172.18.0.1:34548 on port 1883.
+1760010242: New connection from 172.18.0.1:34566 on port 1883.
+1760010242: New connection from 172.18.0.1:34572 on port 1883.
+1760010242: New connection from 172.18.0.1:34578 on port 1883.
+1760010242: New connection from 172.18.0.1:34590 on port 1883.
+1760010242: New connection from 172.18.0.1:34592 on port 1883.
+1760010242: New connection from 172.18.0.1:34606 on port 1883.
+1760010242: New connection from 172.18.0.1:34620 on port 1883.
+1760010242: New connection from 172.18.0.1:34630 on port 1883.
+1760010242: New connection from 172.18.0.1:34636 on port 1883.
+1760010242: New connection from 172.18.0.1:34652 on port 1883.
+1760010242: New connection from 172.18.0.1:34658 on port 1883.
+1760010242: New connection from 172.18.0.1:34660 on port 1883.
+1760010242: New connection from 172.18.0.1:34666 on port 1883.
+1760010242: New connection from 172.18.0.1:34682 on port 1883.
+1760010242: New connection from 172.18.0.1:34696 on port 1883.
+1760010242: New connection from 172.18.0.1:34710 on port 1883.
+1760010242: New connection from 172.18.0.1:34724 on port 1883.
+1760010242: New connection from 172.18.0.1:34734 on port 1883.
+1760010242: New connection from 172.18.0.1:34738 on port 1883.
+1760010242: New connection from 172.18.0.1:34746 on port 1883.
+1760010242: New connection from 172.18.0.1:34748 on port 1883.
+1760010242: New connection from 172.18.0.1:34750 on port 1883.
+1760010242: New connection from 172.18.0.1:34752 on port 1883.
+1760010242: New connection from 172.18.0.1:34766 on port 1883.
+1760010242: New connection from 172.18.0.1:34776 on port 1883.
+1760010242: New connection from 172.18.0.1:34792 on port 1883.
+1760010242: New connection from 172.18.0.1:34806 on port 1883.
+1760010242: New connection from 172.18.0.1:34822 on port 1883.
+1760010242: New connection from 172.18.0.1:34832 on port 1883.
+1760010242: New connection from 172.18.0.1:34844 on port 1883.
+1760010242: New connection from 172.18.0.1:34848 on port 1883.
+1760010242: New connection from 172.18.0.1:34852 on port 1883.
+1760010242: New connection from 172.18.0.1:34858 on port 1883.
+1760010242: New connection from 172.18.0.1:34868 on port 1883.
+1760010242: New connection from 172.18.0.1:34870 on port 1883.
+1760010242: New connection from 172.18.0.1:34880 on port 1883.
+1760010242: New connection from 172.18.0.1:34896 on port 1883.
+1760010242: New connection from 172.18.0.1:34902 on port 1883.
+1760010242: New connection from 172.18.0.1:34910 on port 1883.
+1760010242: New connection from 172.18.0.1:34920 on port 1883.
+1760010242: New connection from 172.18.0.1:34922 on port 1883.
+1760010242: New connection from 172.18.0.1:34934 on port 1883.
+1760010242: New connection from 172.18.0.1:34942 on port 1883.
+1760010242: New connection from 172.18.0.1:34946 on port 1883.
+1760010242: New connection from 172.18.0.1:34960 on port 1883.
+1760010242: New connection from 172.18.0.1:34974 on port 1883.
+1760010242: New connection from 172.18.0.1:34984 on port 1883.
+1760010242: New connection from 172.18.0.1:34988 on port 1883.
+1760010242: New connection from 172.18.0.1:35002 on port 1883.
+1760010242: New connection from 172.18.0.1:35008 on port 1883.
+1760010242: New connection from 172.18.0.1:35010 on port 1883.
+1760010242: New connection from 172.18.0.1:35020 on port 1883.
+1760010242: New connection from 172.18.0.1:35034 on port 1883.
+1760010242: New connection from 172.18.0.1:35038 on port 1883.
+1760010242: New connection from 172.18.0.1:35046 on port 1883.
+1760010242: New connection from 172.18.0.1:35050 on port 1883.
+1760010242: New connection from 172.18.0.1:35062 on port 1883.
+1760010242: New connection from 172.18.0.1:35078 on port 1883.
+1760010242: New connection from 172.18.0.1:35090 on port 1883.
+1760010242: New connection from 172.18.0.1:35146 on port 1883.
+1760010242: New connection from 172.18.0.1:35136 on port 1883.
+1760010242: New connection from 172.18.0.1:35106 on port 1883.
+1760010242: New connection from 172.18.0.1:35112 on port 1883.
+1760010242: New connection from 172.18.0.1:35132 on port 1883.
+1760010242: New connection from 172.18.0.1:35108 on port 1883.
+1760010242: New connection from 172.18.0.1:35154 on port 1883.
+1760010242: New connection from 172.18.0.1:35172 on port 1883.
+1760010242: New connection from 172.18.0.1:35192 on port 1883.
+1760010242: New connection from 172.18.0.1:35184 on port 1883.
+1760010242: New connection from 172.18.0.1:35194 on port 1883.
+1760010242: New connection from 172.18.0.1:35202 on port 1883.
+1760010242: New connection from 172.18.0.1:35204 on port 1883.
+1760010242: New connection from 172.18.0.1:35206 on port 1883.
+1760010242: New connection from 172.18.0.1:35222 on port 1883.
+1760010242: New connection from 172.18.0.1:35228 on port 1883.
+1760010242: New connection from 172.18.0.1:35238 on port 1883.
+1760010242: New connection from 172.18.0.1:35250 on port 1883.
+1760010242: New connection from 172.18.0.1:35252 on port 1883.
+1760010242: New connection from 172.18.0.1:35262 on port 1883.
+1760010242: New connection from 172.18.0.1:35274 on port 1883.
+1760010242: New connection from 172.18.0.1:35286 on port 1883.
+1760010242: New connection from 172.18.0.1:35292 on port 1883.
+1760010242: New connection from 172.18.0.1:35302 on port 1883.
+1760010242: New connection from 172.18.0.1:35306 on port 1883.
+1760010242: New connection from 172.18.0.1:35310 on port 1883.
+1760010242: New connection from 172.18.0.1:35326 on port 1883.
+1760010242: New connection from 172.18.0.1:35334 on port 1883.
+1760010242: New connection from 172.18.0.1:35342 on port 1883.
+1760010242: New connection from 172.18.0.1:35352 on port 1883.
+1760010242: New connection from 172.18.0.1:35354 on port 1883.
+1760010242: New connection from 172.18.0.1:35356 on port 1883.
+1760010242: New connection from 172.18.0.1:35370 on port 1883.
+1760010242: New connection from 172.18.0.1:35384 on port 1883.
+1760010242: New connection from 172.18.0.1:35392 on port 1883.
+1760010242: New connection from 172.18.0.1:35526 on port 1883.
+1760010242: New connection from 172.18.0.1:35156 on port 1883.
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34346 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34358 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34362 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34376 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34386 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34396 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34410 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34416 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34428 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34444 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34460 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34468 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34478 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34476 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34474 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34472 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34498 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34504 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34496 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34516 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34530 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34536 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34544 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34558 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34548 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34566 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34572 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34578 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34590 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34592 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34606 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34620 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34630 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34636 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34652 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34658 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34660 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34666 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34682 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34696 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34710 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34724 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34734 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34738 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34746 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34748 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34750 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34752 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34766 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34776 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34792 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34806 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34822 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34832 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34844 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34848 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34852 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34858 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34868 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34870 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34880 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34896 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34902 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34910 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34920 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34922 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34934 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34942 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34946 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34960 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34974 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34984 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:34988 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35002 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35008 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35010 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35020 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35034 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35038 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35046 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35050 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35062 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35078 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35090 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35146 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35136 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35106 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35112 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35132 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35108 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35154 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35172 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35192 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35184 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35194 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35202 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35204 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35206 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35222 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35228 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35238 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35250 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35252 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35262 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35274 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35286 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35292 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35302 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35306 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35310 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35326 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35334 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35342 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35352 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35354 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35356 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35370 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35384 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35392 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35526 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35156 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: New connection from 172.18.0.1:35398 on port 1883.
+1760010243: Client ArduinoTrafficLight already connected, closing old connection.
+1760010243: New client connected from 172.18.0.1:35398 as ArduinoTrafficLight (p2, c1, k15).
+1760010243: Client ArduinoTrafficLight closed its connection.
+1760012881: New connection from 172.18.0.1:36056 on port 1883.
+1760012881: New client connected from 172.18.0.1:36056 as ArduinoTrafficLight (p2, c1, k15).
+1760012881: New connection from 172.18.0.1:35914 on port 1883.
+1760012881: New connection from 172.18.0.1:35834 on port 1883.
+1760012881: New connection from 172.18.0.1:35792 on port 1883.
+1760012881: New connection from 172.18.0.1:35944 on port 1883.
+1760012881: New connection from 172.18.0.1:35842 on port 1883.
+1760012881: New connection from 172.18.0.1:35828 on port 1883.
+1760012881: New connection from 172.18.0.1:35738 on port 1883.
+1760012881: New connection from 172.18.0.1:35512 on port 1883.
+1760012881: New connection from 172.18.0.1:35492 on port 1883.
+1760012881: New connection from 172.18.0.1:35470 on port 1883.
+1760012881: New connection from 172.18.0.1:35452 on port 1883.
+1760012881: New connection from 172.18.0.1:35418 on port 1883.
+1760012881: New connection from 172.18.0.1:36010 on port 1883.
+1760012881: New connection from 172.18.0.1:35984 on port 1883.
+1760012881: New connection from 172.18.0.1:35952 on port 1883.
+1760012881: New connection from 172.18.0.1:35908 on port 1883.
+1760012881: New connection from 172.18.0.1:35840 on port 1883.
+1760012881: New connection from 172.18.0.1:35818 on port 1883.
+1760012881: New connection from 172.18.0.1:35762 on port 1883.
+1760012881: New connection from 172.18.0.1:35726 on port 1883.
+1760012881: New connection from 172.18.0.1:35682 on port 1883.
+1760012881: New connection from 172.18.0.1:35628 on port 1883.
+1760012881: New connection from 172.18.0.1:35578 on port 1883.
+1760012881: New connection from 172.18.0.1:36030 on port 1883.
+1760012881: New connection from 172.18.0.1:35928 on port 1883.
+1760012881: New connection from 172.18.0.1:35832 on port 1883.
+1760012881: New connection from 172.18.0.1:35802 on port 1883.
+1760012881: New connection from 172.18.0.1:35716 on port 1883.
+1760012881: New connection from 172.18.0.1:35498 on port 1883.
+1760012881: New connection from 172.18.0.1:35484 on port 1883.
+1760012881: New connection from 172.18.0.1:35464 on port 1883.
+1760012881: New connection from 172.18.0.1:35436 on port 1883.
+1760012881: New connection from 172.18.0.1:35410 on port 1883.
+1760012881: New connection from 172.18.0.1:36002 on port 1883.
+1760012881: New connection from 172.18.0.1:35970 on port 1883.
+1760012881: New connection from 172.18.0.1:35964 on port 1883.
+1760012881: New connection from 172.18.0.1:35946 on port 1883.
+1760012881: New connection from 172.18.0.1:35896 on port 1883.
+1760012881: New connection from 172.18.0.1:35838 on port 1883.
+1760012881: New connection from 172.18.0.1:35830 on port 1883.
+1760012881: New connection from 172.18.0.1:35744 on port 1883.
+1760012881: New connection from 172.18.0.1:35706 on port 1883.
+1760012881: New connection from 172.18.0.1:35668 on port 1883.
+1760012881: New connection from 172.18.0.1:35616 on port 1883.
+1760012881: New connection from 172.18.0.1:35582 on port 1883.
+1760012881: New connection from 172.18.0.1:36026 on port 1883.
+1760012881: New connection from 172.18.0.1:35776 on port 1883.
+1760012881: New connection from 172.18.0.1:35690 on port 1883.
+1760012881: New connection from 172.18.0.1:35540 on port 1883.
+1760012881: New connection from 172.18.0.1:36032 on port 1883.
+1760012881: New connection from 172.18.0.1:35996 on port 1883.
+1760012881: New connection from 172.18.0.1:35966 on port 1883.
+1760012881: New connection from 172.18.0.1:35924 on port 1883.
+1760012881: New connection from 172.18.0.1:35836 on port 1883.
+1760012881: New connection from 172.18.0.1:35644 on port 1883.
+1760012881: New connection from 172.18.0.1:35604 on port 1883.
+1760012881: New connection from 172.18.0.1:35576 on port 1883.
+1760012881: New connection from 172.18.0.1:35558 on port 1883.
+1760012881: New connection from 172.18.0.1:35656 on port 1883.
+1760012881: New connection from 172.18.0.1:35640 on port 1883.
+1760012881: New connection from 172.18.0.1:35594 on port 1883.
+1760012881: New connection from 172.18.0.1:35556 on port 1883.
+1760012881: New connection from 172.18.0.1:35494 on port 1883.
+1760012881: New connection from 172.18.0.1:35468 on port 1883.
+1760012881: New connection from 172.18.0.1:35424 on port 1883.
+1760012881: New connection from 172.18.0.1:35752 on port 1883.
+1760012881: New connection from 172.18.0.1:36042 on port 1883.
+1760012881: New connection from 172.18.0.1:36044 on port 1883.
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35914 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35834 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35792 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35944 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35842 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35828 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35738 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35512 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35492 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35470 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35452 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35418 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:36010 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35984 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35952 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35908 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35840 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35818 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35762 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35726 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35682 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35628 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35578 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:36030 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35928 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35832 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35802 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35716 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35498 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35484 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35464 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35436 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35410 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:36002 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35970 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35964 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35946 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35896 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35838 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35830 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35744 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35706 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35668 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35616 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35582 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:36026 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35776 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35690 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35540 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:36032 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35996 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35966 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35924 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35836 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35644 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35604 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35576 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35558 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35656 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35640 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35594 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35556 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35494 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35468 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35424 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:35752 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:36042 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:36044 as ArduinoTrafficLight (p2, c1, k15).
+1760012882: New connection from 172.18.0.1:36066 on port 1883.
+1760012882: Client ArduinoTrafficLight already connected, closing old connection.
+1760012882: New client connected from 172.18.0.1:36066 as ArduinoTrafficLight (p2, c1, k15).
+1760012894: Client ArduinoTrafficLight closed its connection.
+1760012897: New connection from 172.18.0.1:44466 on port 1883.
+1760012897: New client connected from 172.18.0.1:44466 as ArduinoTrafficLight (p2, c1, k15).
+1760012928: Client ArduinoTrafficLight closed its connection.
+1760012931: New connection from 172.18.0.1:47216 on port 1883.
+1760012931: New client connected from 172.18.0.1:47216 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: New connection from 172.18.0.1:56602 on port 1883.
+1760013387: New connection from 172.18.0.1:56618 on port 1883.
+1760013387: New connection from 172.18.0.1:56626 on port 1883.
+1760013387: New connection from 172.18.0.1:56620 on port 1883.
+1760013387: New connection from 172.18.0.1:56636 on port 1883.
+1760013387: New connection from 172.18.0.1:56648 on port 1883.
+1760013387: New connection from 172.18.0.1:56660 on port 1883.
+1760013387: New connection from 172.18.0.1:56676 on port 1883.
+1760013387: New connection from 172.18.0.1:56678 on port 1883.
+1760013387: New connection from 172.18.0.1:56684 on port 1883.
+1760013387: New connection from 172.18.0.1:56704 on port 1883.
+1760013387: New connection from 172.18.0.1:56712 on port 1883.
+1760013387: New connection from 172.18.0.1:56698 on port 1883.
+1760013387: New connection from 172.18.0.1:56730 on port 1883.
+1760013387: New connection from 172.18.0.1:56720 on port 1883.
+1760013387: New connection from 172.18.0.1:56738 on port 1883.
+1760013387: New connection from 172.18.0.1:56752 on port 1883.
+1760013387: New connection from 172.18.0.1:56764 on port 1883.
+1760013387: New connection from 172.18.0.1:56754 on port 1883.
+1760013387: New connection from 172.18.0.1:56766 on port 1883.
+1760013387: New connection from 172.18.0.1:56772 on port 1883.
+1760013387: New connection from 172.18.0.1:56782 on port 1883.
+1760013387: New connection from 172.18.0.1:56798 on port 1883.
+1760013387: New connection from 172.18.0.1:56680 on port 1883.
+1760013387: New connection from 172.18.0.1:56682 on port 1883.
+1760013387: New connection from 172.18.0.1:56814 on port 1883.
+1760013387: New connection from 172.18.0.1:56826 on port 1883.
+1760013387: New connection from 172.18.0.1:56832 on port 1883.
+1760013387: New connection from 172.18.0.1:56846 on port 1883.
+1760013387: New connection from 172.18.0.1:56856 on port 1883.
+1760013387: New connection from 172.18.0.1:56866 on port 1883.
+1760013387: New connection from 172.18.0.1:56868 on port 1883.
+1760013387: New connection from 172.18.0.1:56884 on port 1883.
+1760013387: New connection from 172.18.0.1:56892 on port 1883.
+1760013387: New connection from 172.18.0.1:56890 on port 1883.
+1760013387: New connection from 172.18.0.1:56928 on port 1883.
+1760013387: New connection from 172.18.0.1:56926 on port 1883.
+1760013387: New connection from 172.18.0.1:56924 on port 1883.
+1760013387: New connection from 172.18.0.1:56942 on port 1883.
+1760013387: New connection from 172.18.0.1:56954 on port 1883.
+1760013387: New connection from 172.18.0.1:56964 on port 1883.
+1760013387: New connection from 172.18.0.1:56910 on port 1883.
+1760013387: New connection from 172.18.0.1:56944 on port 1883.
+1760013387: New connection from 172.18.0.1:56986 on port 1883.
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56602 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56618 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56620 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56626 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56636 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56648 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56660 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56676 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56678 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56684 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56704 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56712 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56698 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56730 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56720 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56738 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56752 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56764 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56754 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56766 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56772 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56782 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56798 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56680 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56682 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56814 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56826 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56832 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56846 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56856 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56866 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56868 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56884 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56892 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56890 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56928 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56926 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56924 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56942 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56954 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56964 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56910 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56944 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight already connected, closing old connection.
+1760013387: New client connected from 172.18.0.1:56986 as ArduinoTrafficLight (p2, c1, k15).
+1760013387: Client ArduinoTrafficLight closed its connection.
+1760013388: New connection from 172.18.0.1:56988 on port 1883.
+1760013388: New client connected from 172.18.0.1:56988 as ArduinoTrafficLight (p2, c1, k15).
+1760014818: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760015880: Client ArduinoTrafficLight closed its connection.
+1760015930: Client Telegraf-Consumer-BruoJ disconnected.
+1760015930: mosquitto version 2.0.22 terminating
+1760015930: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760364778: mosquitto version 2.0.22 starting
+1760364778: Config loaded from /mosquitto/config/mosquitto.conf.
+1760364778: Opening ipv4 listen socket on port 1883.
+1760364778: Opening ipv6 listen socket on port 1883.
+1760364778: Opening websockets listen socket on port 9001.
+1760364778: mosquitto version 2.0.22 running
+1760364809: New connection from 172.18.0.5:37272 on port 1883.
+1760364809: New client connected from 172.18.0.5:37272 as Telegraf-Consumer-t7Zwf (p2, c1, k60).
+1760364851: New connection from ::1:48746 on port 1883.
+1760364851: New client connected from ::1:48746 as auto-B942AD5E-B35E-A0C0-A338-ED9CF925BD13 (p2, c1, k60).
+1760364851: Client auto-B942AD5E-B35E-A0C0-A338-ED9CF925BD13 disconnected.
+1760364887: New connection from ::1:34546 on port 1883.
+1760364887: New client connected from ::1:34546 as auto-6C32D601-0069-9F61-BFA9-28C807537E0F (p2, c1, k60).
+1760364887: Client auto-6C32D601-0069-9F61-BFA9-28C807537E0F disconnected.
+1760364930: New connection from ::1:36432 on port 1883.
+1760364930: New client connected from ::1:36432 as auto-481965D6-DF28-CD9F-1202-8E8BE91E57E8 (p2, c1, k60).
+1760365118: New connection from ::1:54808 on port 1883.
+1760365118: New client connected from ::1:54808 as auto-081BAEC9-B649-B7C6-5991-2AD706301C0B (p2, c1, k60).
+1760365626: Client auto-081BAEC9-B649-B7C6-5991-2AD706301C0B disconnected.
+1760365630: New connection from ::1:34522 on port 1883.
+1760365630: New client connected from ::1:34522 as auto-972CF95B-972B-76AE-446F-5AD1252AA220 (p2, c1, k60).
+1760365839: New connection from ::1:46408 on port 1883.
+1760365839: New client connected from ::1:46408 as auto-C6D43F55-C2E2-8BA5-8D56-39FB077AC7C6 (p2, c1, k60).
+1760366318: Client auto-C6D43F55-C2E2-8BA5-8D56-39FB077AC7C6 disconnected.
+1760366324: New connection from ::1:50142 on port 1883.
+1760366324: New client connected from ::1:50142 as auto-BC671891-7B84-3F33-D1D0-07F5555CA622 (p2, c1, k60).
+1760366329: Client auto-BC671891-7B84-3F33-D1D0-07F5555CA622 disconnected.
+1760366578: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760370003: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760372291: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760373672: New connection from 172.18.0.1:48596 on port 1883.
+1760373672: New client connected from 172.18.0.1:48596 as ArduinoTrafficLight (p2, c1, k15).
+1760373837: Client ArduinoTrafficLight closed its connection.
+1760426017: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760426019: New connection from 172.18.0.1:39788 on port 1883.
+1760426019: New client connected from 172.18.0.1:39788 as ArduinoTrafficLight (p2, c1, k15).
+1760426062: Client auto-972CF95B-972B-76AE-446F-5AD1252AA220 disconnected.
+1760426065: New connection from ::1:40610 on port 1883.
+1760426065: New client connected from ::1:40610 as auto-D0763B37-AA9F-84C1-C692-0C8CDE6020A3 (p2, c1, k60).
+1760426471: New connection from 172.18.0.1:58012 on port 1883.
+1760426471: New client connected from 172.18.0.1:58012 as 8ddbdbcc-8448-46f0-9a98-deb65da939f3 (p2, c1, k60).
+1760426514: New connection from ::1:33414 on port 1883.
+1760426514: New client connected from ::1:33414 as auto-6D64920D-9C77-3B8D-FFD6-FD60AEF1D0C9 (p2, c1, k60).
+1760426592: Client 8ddbdbcc-8448-46f0-9a98-deb65da939f3 disconnected.
+1760426762: New connection from 172.18.0.1:39290 on port 1883.
+1760426762: New client connected from 172.18.0.1:39290 as 08cc605d-a6d4-4971-8828-5e59b9d7da4b (p2, c1, k60).
+1760427420: Client ArduinoTrafficLight closed its connection.
+1760427429: New connection from 172.18.0.1:56840 on port 1883.
+1760427429: New client connected from 172.18.0.1:56840 as ArduinoTrafficLight (p2, c1, k15).
+1760427445: Client 08cc605d-a6d4-4971-8828-5e59b9d7da4b disconnected.
+1760427479: New connection from 172.18.0.1:55018 on port 1883.
+1760427479: New client connected from 172.18.0.1:55018 as cf75e2b7-29f3-4b3b-ae0f-6906b0c0bb11 (p2, c1, k60).
+1760427497: Client cf75e2b7-29f3-4b3b-ae0f-6906b0c0bb11 disconnected.
+1760427510: Client auto-6D64920D-9C77-3B8D-FFD6-FD60AEF1D0C9 disconnected.
+1760427520: New connection from ::1:45066 on port 1883.
+1760427520: New client connected from ::1:45066 as auto-26B7A568-AC6B-2A6A-7F4F-1DDC930DB53A (p2, c1, k60).
+1760427817: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760428233: New connection from 172.18.0.1:43584 on port 1883.
+1760428233: New connection from 172.18.0.1:43590 on port 1883.
+1760428233: New connection from 172.18.0.1:43606 on port 1883.
+1760428233: New connection from 172.18.0.1:43620 on port 1883.
+1760428233: New connection from 172.18.0.1:43638 on port 1883.
+1760428233: New connection from 172.18.0.1:43630 on port 1883.
+1760428233: New connection from 172.18.0.1:43642 on port 1883.
+1760428233: New connection from 172.18.0.1:43646 on port 1883.
+1760428233: New connection from 172.18.0.1:43650 on port 1883.
+1760428233: New connection from 172.18.0.1:43654 on port 1883.
+1760428233: New connection from 172.18.0.1:43664 on port 1883.
+1760428233: New connection from 172.18.0.1:43666 on port 1883.
+1760428233: New connection from 172.18.0.1:43670 on port 1883.
+1760428233: New connection from 172.18.0.1:43586 on port 1883.
+1760428233: New connection from 172.18.0.1:43680 on port 1883.
+1760428233: New connection from 172.18.0.1:43692 on port 1883.
+1760428233: New connection from 172.18.0.1:43684 on port 1883.
+1760428233: New connection from 172.18.0.1:43704 on port 1883.
+1760428233: New connection from 172.18.0.1:43710 on port 1883.
+1760428233: New connection from 172.18.0.1:43708 on port 1883.
+1760428233: New connection from 172.18.0.1:43726 on port 1883.
+1760428233: New connection from 172.18.0.1:43728 on port 1883.
+1760428233: New connection from 172.18.0.1:43730 on port 1883.
+1760428233: New connection from 172.18.0.1:43746 on port 1883.
+1760428233: New connection from 172.18.0.1:43748 on port 1883.
+1760428233: New connection from 172.18.0.1:43752 on port 1883.
+1760428233: New connection from 172.18.0.1:43760 on port 1883.
+1760428233: New connection from 172.18.0.1:43766 on port 1883.
+1760428233: New connection from 172.18.0.1:43750 on port 1883.
+1760428233: New connection from 172.18.0.1:43776 on port 1883.
+1760428233: New connection from 172.18.0.1:43778 on port 1883.
+1760428233: New connection from 172.18.0.1:43782 on port 1883.
+1760428233: New connection from 172.18.0.1:43784 on port 1883.
+1760428233: New connection from 172.18.0.1:43788 on port 1883.
+1760428233: New connection from 172.18.0.1:43792 on port 1883.
+1760428233: New connection from 172.18.0.1:43830 on port 1883.
+1760428233: New connection from 172.18.0.1:43814 on port 1883.
+1760428233: New connection from 172.18.0.1:43846 on port 1883.
+1760428233: New connection from 172.18.0.1:43848 on port 1883.
+1760428233: New connection from 172.18.0.1:43864 on port 1883.
+1760428233: New connection from 172.18.0.1:43872 on port 1883.
+1760428233: New connection from 172.18.0.1:43888 on port 1883.
+1760428233: New connection from 172.18.0.1:43894 on port 1883.
+1760428233: New connection from 172.18.0.1:43902 on port 1883.
+1760428233: New connection from 172.18.0.1:43912 on port 1883.
+1760428233: New connection from 172.18.0.1:43922 on port 1883.
+1760428233: New connection from 172.18.0.1:43938 on port 1883.
+1760428233: New connection from 172.18.0.1:43924 on port 1883.
+1760428233: New connection from 172.18.0.1:43946 on port 1883.
+1760428233: New connection from 172.18.0.1:43952 on port 1883.
+1760428233: New connection from 172.18.0.1:43954 on port 1883.
+1760428233: New connection from 172.18.0.1:43798 on port 1883.
+1760428233: New connection from 172.18.0.1:43970 on port 1883.
+1760428233: New connection from 172.18.0.1:43976 on port 1883.
+1760428233: New connection from 172.18.0.1:43588 on port 1883.
+1760428233: New connection from 172.18.0.1:44000 on port 1883.
+1760428233: New connection from 172.18.0.1:44014 on port 1883.
+1760428233: New connection from 172.18.0.1:43780 on port 1883.
+1760428233: New connection from 172.18.0.1:43786 on port 1883.
+1760428233: New connection from 172.18.0.1:44034 on port 1883.
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43584 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43590 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43606 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43620 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43638 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43630 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43642 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43646 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43650 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43654 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43664 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43666 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43670 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43586 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43680 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43692 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43684 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43704 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43710 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43708 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43726 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43728 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43730 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43746 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43748 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43752 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43760 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43766 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43750 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43776 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43778 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43782 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43784 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43788 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43792 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43830 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43814 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43846 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43848 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43864 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43872 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43888 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43894 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43902 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43912 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43922 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43938 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43924 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43946 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43952 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43954 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43798 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43970 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43976 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43588 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:44000 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:44014 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43780 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:43786 as ArduinoTrafficLight (p2, c1, k15).
+1760428981: Client ArduinoTrafficLight already connected, closing old connection.
+1760428981: New client connected from 172.18.0.1:44034 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: New connection from 172.18.0.1:44650 on port 1883.
+1760430821: Client ArduinoTrafficLight closed its connection.
+1760430821: New client connected from 172.18.0.1:44650 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: New connection from 172.18.0.1:44652 on port 1883.
+1760430821: New connection from 172.18.0.1:44654 on port 1883.
+1760430821: New connection from 172.18.0.1:44662 on port 1883.
+1760430821: New connection from 172.18.0.1:44674 on port 1883.
+1760430821: New connection from 172.18.0.1:44676 on port 1883.
+1760430821: New connection from 172.18.0.1:44678 on port 1883.
+1760430821: New connection from 172.18.0.1:44688 on port 1883.
+1760430821: New connection from 172.18.0.1:44686 on port 1883.
+1760430821: New connection from 172.18.0.1:44704 on port 1883.
+1760430821: New connection from 172.18.0.1:44716 on port 1883.
+1760430821: New connection from 172.18.0.1:44722 on port 1883.
+1760430821: New connection from 172.18.0.1:44728 on port 1883.
+1760430821: New connection from 172.18.0.1:44732 on port 1883.
+1760430821: New connection from 172.18.0.1:44738 on port 1883.
+1760430821: New connection from 172.18.0.1:44740 on port 1883.
+1760430821: New connection from 172.18.0.1:44744 on port 1883.
+1760430821: New connection from 172.18.0.1:44758 on port 1883.
+1760430821: New connection from 172.18.0.1:44766 on port 1883.
+1760430821: New connection from 172.18.0.1:44770 on port 1883.
+1760430821: New connection from 172.18.0.1:44774 on port 1883.
+1760430821: New connection from 172.18.0.1:44780 on port 1883.
+1760430821: New connection from 172.18.0.1:44792 on port 1883.
+1760430821: New connection from 172.18.0.1:44806 on port 1883.
+1760430821: New connection from 172.18.0.1:44822 on port 1883.
+1760430821: New connection from 172.18.0.1:44836 on port 1883.
+1760430821: New connection from 172.18.0.1:44850 on port 1883.
+1760430821: New connection from 172.18.0.1:44854 on port 1883.
+1760430821: New connection from 172.18.0.1:44856 on port 1883.
+1760430821: New connection from 172.18.0.1:44866 on port 1883.
+1760430821: New connection from 172.18.0.1:44880 on port 1883.
+1760430821: New connection from 172.18.0.1:44888 on port 1883.
+1760430821: New connection from 172.18.0.1:44904 on port 1883.
+1760430821: New connection from 172.18.0.1:44914 on port 1883.
+1760430821: New connection from 172.18.0.1:44930 on port 1883.
+1760430821: New connection from 172.18.0.1:44940 on port 1883.
+1760430821: New connection from 172.18.0.1:44948 on port 1883.
+1760430821: New connection from 172.18.0.1:44954 on port 1883.
+1760430821: New connection from 172.18.0.1:44960 on port 1883.
+1760430821: New connection from 172.18.0.1:44976 on port 1883.
+1760430821: New connection from 172.18.0.1:44992 on port 1883.
+1760430821: New connection from 172.18.0.1:44994 on port 1883.
+1760430821: New connection from 172.18.0.1:44998 on port 1883.
+1760430821: New connection from 172.18.0.1:45008 on port 1883.
+1760430821: New connection from 172.18.0.1:45014 on port 1883.
+1760430821: New connection from 172.18.0.1:45018 on port 1883.
+1760430821: New connection from 172.18.0.1:45022 on port 1883.
+1760430821: New connection from 172.18.0.1:45028 on port 1883.
+1760430821: New connection from 172.18.0.1:45050 on port 1883.
+1760430821: New connection from 172.18.0.1:45040 on port 1883.
+1760430821: New connection from 172.18.0.1:45060 on port 1883.
+1760430821: New connection from 172.18.0.1:45076 on port 1883.
+1760430821: New connection from 172.18.0.1:45092 on port 1883.
+1760430821: New connection from 172.18.0.1:45094 on port 1883.
+1760430821: New connection from 172.18.0.1:45098 on port 1883.
+1760430821: New connection from 172.18.0.1:45116 on port 1883.
+1760430821: New connection from 172.18.0.1:45126 on port 1883.
+1760430821: New connection from 172.18.0.1:45132 on port 1883.
+1760430821: New connection from 172.18.0.1:45140 on port 1883.
+1760430821: New connection from 172.18.0.1:45114 on port 1883.
+1760430821: New connection from 172.18.0.1:45142 on port 1883.
+1760430821: New connection from 172.18.0.1:45148 on port 1883.
+1760430821: New connection from 172.18.0.1:45158 on port 1883.
+1760430821: New connection from 172.18.0.1:45174 on port 1883.
+1760430821: New connection from 172.18.0.1:45188 on port 1883.
+1760430821: New connection from 172.18.0.1:45202 on port 1883.
+1760430821: New connection from 172.18.0.1:45216 on port 1883.
+1760430821: New connection from 172.18.0.1:45222 on port 1883.
+1760430821: New connection from 172.18.0.1:45238 on port 1883.
+1760430821: New connection from 172.18.0.1:45248 on port 1883.
+1760430821: New connection from 172.18.0.1:45254 on port 1883.
+1760430821: New connection from 172.18.0.1:45062 on port 1883.
+1760430821: New connection from 172.18.0.1:45064 on port 1883.
+1760430821: New connection from 172.18.0.1:45274 on port 1883.
+1760430821: New connection from 172.18.0.1:45284 on port 1883.
+1760430821: New connection from 172.18.0.1:45288 on port 1883.
+1760430821: New connection from 172.18.0.1:45290 on port 1883.
+1760430821: New connection from 172.18.0.1:45306 on port 1883.
+1760430821: New connection from 172.18.0.1:45322 on port 1883.
+1760430821: New connection from 172.18.0.1:45324 on port 1883.
+1760430821: New connection from 172.18.0.1:45328 on port 1883.
+1760430821: New connection from 172.18.0.1:45340 on port 1883.
+1760430821: New connection from 172.18.0.1:45356 on port 1883.
+1760430821: New connection from 172.18.0.1:45360 on port 1883.
+1760430821: New connection from 172.18.0.1:45368 on port 1883.
+1760430821: Client ArduinoTrafficLight closed its connection.
+1760430821: New client connected from 172.18.0.1:44652 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44662 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44674 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44654 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44676 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44678 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44688 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44686 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44704 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44716 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44722 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44728 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44732 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44738 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44740 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44744 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44758 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44766 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44770 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44774 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44780 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44792 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44806 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44822 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44836 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44850 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44854 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44856 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44866 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44880 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44888 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44904 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44914 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44930 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44940 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44948 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44954 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44960 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44976 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44992 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44994 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:44998 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45008 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45014 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45018 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45022 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45028 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45050 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45040 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45060 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45076 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45092 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45094 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45098 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45116 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45126 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45132 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45140 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45114 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45142 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45148 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45158 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45174 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45188 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45202 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45216 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45222 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45238 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45248 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45254 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45062 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45064 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45274 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45284 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45288 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45290 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45306 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45322 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45324 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45328 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45340 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45356 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45360 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight already connected, closing old connection.
+1760430821: New client connected from 172.18.0.1:45368 as ArduinoTrafficLight (p2, c1, k15).
+1760430821: Client ArduinoTrafficLight closed its connection.
+1760430823: New connection from 172.18.0.1:45372 on port 1883.
+1760430823: New client connected from 172.18.0.1:45372 as ArduinoTrafficLight (p2, c1, k15).
+1760431788: Client ArduinoTrafficLight closed its connection.
+1760431791: New connection from 172.18.0.1:40364 on port 1883.
+1760431791: New client connected from 172.18.0.1:40364 as ArduinoTrafficLight (p2, c1, k15).
+1760431815: New connection from 172.18.0.1:38584 on port 1883.
+1760431815: Client ArduinoTrafficLight closed its connection.
+1760431815: New connection from 172.18.0.1:38592 on port 1883.
+1760431815: New connection from 172.18.0.1:38598 on port 1883.
+1760431815: New connection from 172.18.0.1:38604 on port 1883.
+1760431815: New connection from 172.18.0.1:38608 on port 1883.
+1760431815: New connection from 172.18.0.1:38610 on port 1883.
+1760431815: New client connected from 172.18.0.1:38584 as ArduinoTrafficLight (p2, c1, k15).
+1760431815: Client ArduinoTrafficLight closed its connection.
+1760431815: New client connected from 172.18.0.1:38592 as ArduinoTrafficLight (p2, c1, k15).
+1760431815: Client ArduinoTrafficLight already connected, closing old connection.
+1760431815: New client connected from 172.18.0.1:38598 as ArduinoTrafficLight (p2, c1, k15).
+1760431815: Client ArduinoTrafficLight already connected, closing old connection.
+1760431815: New client connected from 172.18.0.1:38604 as ArduinoTrafficLight (p2, c1, k15).
+1760431815: Client ArduinoTrafficLight already connected, closing old connection.
+1760431815: New client connected from 172.18.0.1:38608 as ArduinoTrafficLight (p2, c1, k15).
+1760431815: Client ArduinoTrafficLight already connected, closing old connection.
+1760431815: New client connected from 172.18.0.1:38610 as ArduinoTrafficLight (p2, c1, k15).
+1760431984: Client ArduinoTrafficLight closed its connection.
+1760431987: New connection from 172.18.0.1:57408 on port 1883.
+1760431987: New client connected from 172.18.0.1:57408 as ArduinoTrafficLight (p2, c1, k15).
+1760433320: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760434823: Client ArduinoTrafficLight closed its connection.
+1760434823: New connection from 172.18.0.1:44034 on port 1883.
+1760434823: New connection from 172.18.0.1:44016 on port 1883.
+1760434823: New connection from 172.18.0.1:44014 on port 1883.
+1760434823: New connection from 172.18.0.1:44018 on port 1883.
+1760434823: New connection from 172.18.0.1:44056 on port 1883.
+1760434823: New connection from 172.18.0.1:44046 on port 1883.
+1760434823: New connection from 172.18.0.1:44060 on port 1883.
+1760434823: New connection from 172.18.0.1:44020 on port 1883.
+1760434823: New client connected from 172.18.0.1:44034 as ArduinoTrafficLight (p2, c1, k15).
+1760434823: Client ArduinoTrafficLight already connected, closing old connection.
+1760434823: New client connected from 172.18.0.1:44016 as ArduinoTrafficLight (p2, c1, k15).
+1760434823: Client ArduinoTrafficLight already connected, closing old connection.
+1760434823: New client connected from 172.18.0.1:44014 as ArduinoTrafficLight (p2, c1, k15).
+1760434823: Client ArduinoTrafficLight already connected, closing old connection.
+1760434823: New client connected from 172.18.0.1:44018 as ArduinoTrafficLight (p2, c1, k15).
+1760434823: Client ArduinoTrafficLight already connected, closing old connection.
+1760434823: New client connected from 172.18.0.1:44056 as ArduinoTrafficLight (p2, c1, k15).
+1760434823: Client ArduinoTrafficLight already connected, closing old connection.
+1760434823: New client connected from 172.18.0.1:44046 as ArduinoTrafficLight (p2, c1, k15).
+1760434823: Client ArduinoTrafficLight already connected, closing old connection.
+1760434823: New client connected from 172.18.0.1:44060 as ArduinoTrafficLight (p2, c1, k15).
+1760434823: Client ArduinoTrafficLight already connected, closing old connection.
+1760434823: New client connected from 172.18.0.1:44020 as ArduinoTrafficLight (p2, c1, k15).
+1760434825: Client ArduinoTrafficLight closed its connection.
+1760434825: New connection from 172.18.0.1:44088 on port 1883.
+1760434825: New client connected from 172.18.0.1:44088 as ArduinoTrafficLight (p2, c1, k15).
+1760435016: Client ArduinoTrafficLight closed its connection.
+1760435019: New connection from 172.18.0.1:34062 on port 1883.
+1760435019: New client connected from 172.18.0.1:34062 as ArduinoTrafficLight (p2, c1, k15).
+1760435298: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760435738: New connection from 172.18.0.1:39874 on port 1883.
+1760435738: New client connected from 172.18.0.1:39874 as 619eb684-08c1-4f6d-a002-8274b7bb90d9 (p2, c1, k60).
+1760435760: Client 619eb684-08c1-4f6d-a002-8274b7bb90d9 disconnected.
+1760435776: New connection from 172.18.0.1:58368 on port 1883.
+1760435776: New client connected from 172.18.0.1:58368 as 1331d5b0-94e2-414b-99e3-f9156f120877 (p2, c1, k60).
+1760440034: Client ArduinoTrafficLight closed its connection.
+1760440034: New connection from 172.18.0.1:39380 on port 1883.
+1760440034: New connection from 172.18.0.1:39378 on port 1883.
+1760440034: New connection from 172.18.0.1:39382 on port 1883.
+1760440034: New connection from 172.18.0.1:39400 on port 1883.
+1760440034: New connection from 172.18.0.1:39412 on port 1883.
+1760440034: New connection from 172.18.0.1:39416 on port 1883.
+1760440034: New connection from 172.18.0.1:39384 on port 1883.
+1760440034: New connection from 172.18.0.1:39432 on port 1883.
+1760440034: New connection from 172.18.0.1:39440 on port 1883.
+1760440034: New connection from 172.18.0.1:39478 on port 1883.
+1760440034: New connection from 172.18.0.1:39482 on port 1883.
+1760440034: New connection from 172.18.0.1:39510 on port 1883.
+1760440034: New connection from 172.18.0.1:39434 on port 1883.
+1760440034: New connection from 172.18.0.1:39436 on port 1883.
+1760440034: New connection from 172.18.0.1:39438 on port 1883.
+1760440034: New connection from 172.18.0.1:39444 on port 1883.
+1760440034: New connection from 172.18.0.1:39538 on port 1883.
+1760440034: New connection from 172.18.0.1:39446 on port 1883.
+1760440034: New connection from 172.18.0.1:39602 on port 1883.
+1760440034: New connection from 172.18.0.1:39604 on port 1883.
+1760440034: New connection from 172.18.0.1:39590 on port 1883.
+1760440034: New connection from 172.18.0.1:39622 on port 1883.
+1760440034: New connection from 172.18.0.1:39628 on port 1883.
+1760440034: New connection from 172.18.0.1:39614 on port 1883.
+1760440034: New connection from 172.18.0.1:39648 on port 1883.
+1760440034: New connection from 172.18.0.1:39666 on port 1883.
+1760440034: New connection from 172.18.0.1:39664 on port 1883.
+1760440034: New connection from 172.18.0.1:39680 on port 1883.
+1760440034: New connection from 172.18.0.1:39682 on port 1883.
+1760440034: New connection from 172.18.0.1:39694 on port 1883.
+1760440034: New connection from 172.18.0.1:39702 on port 1883.
+1760440034: New connection from 172.18.0.1:39708 on port 1883.
+1760440034: New connection from 172.18.0.1:39744 on port 1883.
+1760440034: New connection from 172.18.0.1:39450 on port 1883.
+1760440034: New connection from 172.18.0.1:39442 on port 1883.
+1760440034: New connection from 172.18.0.1:39746 on port 1883.
+1760440034: New connection from 172.18.0.1:39752 on port 1883.
+1760440034: New connection from 172.18.0.1:39768 on port 1883.
+1760440034: New connection from 172.18.0.1:39758 on port 1883.
+1760440034: New connection from 172.18.0.1:39780 on port 1883.
+1760440034: New connection from 172.18.0.1:39786 on port 1883.
+1760440034: New connection from 172.18.0.1:39792 on port 1883.
+1760440034: New connection from 172.18.0.1:39808 on port 1883.
+1760440034: New connection from 172.18.0.1:39452 on port 1883.
+1760440034: New connection from 172.18.0.1:39824 on port 1883.
+1760440034: New connection from 172.18.0.1:39854 on port 1883.
+1760440034: New connection from 172.18.0.1:39868 on port 1883.
+1760440034: New connection from 172.18.0.1:39840 on port 1883.
+1760440034: New connection from 172.18.0.1:39872 on port 1883.
+1760440034: New connection from 172.18.0.1:39876 on port 1883.
+1760440034: New connection from 172.18.0.1:39898 on port 1883.
+1760440034: New connection from 172.18.0.1:39882 on port 1883.
+1760440034: New connection from 172.18.0.1:39900 on port 1883.
+1760440034: New connection from 172.18.0.1:39916 on port 1883.
+1760440034: New connection from 172.18.0.1:39924 on port 1883.
+1760440034: New connection from 172.18.0.1:39918 on port 1883.
+1760440034: New connection from 172.18.0.1:39938 on port 1883.
+1760440034: New connection from 172.18.0.1:39952 on port 1883.
+1760440034: New connection from 172.18.0.1:39962 on port 1883.
+1760440034: New connection from 172.18.0.1:39966 on port 1883.
+1760440034: New connection from 172.18.0.1:39448 on port 1883.
+1760440034: New connection from 172.18.0.1:39978 on port 1883.
+1760440034: New connection from 172.18.0.1:40018 on port 1883.
+1760440034: New connection from 172.18.0.1:40020 on port 1883.
+1760440034: New connection from 172.18.0.1:40004 on port 1883.
+1760440034: New connection from 172.18.0.1:39994 on port 1883.
+1760440034: New connection from 172.18.0.1:40024 on port 1883.
+1760440034: New connection from 172.18.0.1:40026 on port 1883.
+1760440034: New connection from 172.18.0.1:40034 on port 1883.
+1760440034: New connection from 172.18.0.1:40044 on port 1883.
+1760440034: New connection from 172.18.0.1:40050 on port 1883.
+1760440034: New connection from 172.18.0.1:40066 on port 1883.
+1760440034: New connection from 172.18.0.1:40074 on port 1883.
+1760440034: New connection from 172.18.0.1:40084 on port 1883.
+1760440034: New connection from 172.18.0.1:40094 on port 1883.
+1760440034: New connection from 172.18.0.1:40106 on port 1883.
+1760440034: New connection from 172.18.0.1:40108 on port 1883.
+1760440034: New connection from 172.18.0.1:40118 on port 1883.
+1760440034: New connection from 172.18.0.1:40140 on port 1883.
+1760440034: New connection from 172.18.0.1:40124 on port 1883.
+1760440034: New connection from 172.18.0.1:40144 on port 1883.
+1760440034: New connection from 172.18.0.1:40148 on port 1883.
+1760440034: New connection from 172.18.0.1:40166 on port 1883.
+1760440034: New connection from 172.18.0.1:40174 on port 1883.
+1760440034: New connection from 172.18.0.1:40160 on port 1883.
+1760440034: New connection from 172.18.0.1:40032 on port 1883.
+1760440034: New connection from 172.18.0.1:40180 on port 1883.
+1760440034: New connection from 172.18.0.1:40186 on port 1883.
+1760440034: New connection from 172.18.0.1:40190 on port 1883.
+1760440034: New connection from 172.18.0.1:40206 on port 1883.
+1760440034: New connection from 172.18.0.1:40214 on port 1883.
+1760440034: New connection from 172.18.0.1:40222 on port 1883.
+1760440034: New connection from 172.18.0.1:40234 on port 1883.
+1760440034: New connection from 172.18.0.1:40250 on port 1883.
+1760440034: New connection from 172.18.0.1:40252 on port 1883.
+1760440034: New connection from 172.18.0.1:40258 on port 1883.
+1760440034: New connection from 172.18.0.1:40278 on port 1883.
+1760440034: New connection from 172.18.0.1:40264 on port 1883.
+1760440034: New connection from 172.18.0.1:40286 on port 1883.
+1760440034: New connection from 172.18.0.1:40294 on port 1883.
+1760440034: New connection from 172.18.0.1:40304 on port 1883.
+1760440034: New connection from 172.18.0.1:40320 on port 1883.
+1760440034: New connection from 172.18.0.1:40322 on port 1883.
+1760440034: New connection from 172.18.0.1:40336 on port 1883.
+1760440034: New connection from 172.18.0.1:40352 on port 1883.
+1760440034: New connection from 172.18.0.1:40362 on port 1883.
+1760440034: New connection from 172.18.0.1:40366 on port 1883.
+1760440034: New connection from 172.18.0.1:40374 on port 1883.
+1760440034: New connection from 172.18.0.1:40508 on port 1883.
+1760440034: New client connected from 172.18.0.1:39380 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39378 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39382 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39400 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39412 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39416 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39384 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39432 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39440 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39478 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39482 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39510 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39434 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39436 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39438 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39444 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39538 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39446 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39602 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39604 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39590 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39622 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39628 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39614 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39648 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39666 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39664 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39680 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39682 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39694 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39702 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39708 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39744 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39450 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39442 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39746 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39752 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39768 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39758 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39780 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39786 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39792 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39808 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39452 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39824 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39854 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39868 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39840 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39872 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39876 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39898 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39882 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39900 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39916 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39924 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39918 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39938 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39952 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39962 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39966 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39448 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39978 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40018 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40020 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40004 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:39994 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40024 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40026 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40034 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40044 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40050 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40066 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40074 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40084 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40094 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40106 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40108 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40118 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40140 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40124 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40144 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40148 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40166 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40174 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40160 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40032 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40180 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40186 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40190 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40206 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40214 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40222 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40234 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40250 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40252 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40258 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40278 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40264 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40286 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40294 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40304 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40320 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40322 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40336 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40352 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40362 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40366 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40374 as ArduinoTrafficLight (p2, c1, k15).
+1760440034: Client ArduinoTrafficLight already connected, closing old connection.
+1760440034: New client connected from 172.18.0.1:40508 as ArduinoTrafficLight (p2, c1, k15).
+1760440035: New connection from 172.18.0.1:40426 on port 1883.
+1760440035: New connection from 172.18.0.1:40444 on port 1883.
+1760440035: New connection from 172.18.0.1:40410 on port 1883.
+1760440035: New connection from 172.18.0.1:40386 on port 1883.
+1760440035: New connection from 172.18.0.1:40378 on port 1883.
+1760440035: New connection from 172.18.0.1:40428 on port 1883.
+1760440035: New connection from 172.18.0.1:40450 on port 1883.
+1760440035: New connection from 172.18.0.1:40394 on port 1883.
+1760440035: Client ArduinoTrafficLight already connected, closing old connection.
+1760440035: New client connected from 172.18.0.1:40426 as ArduinoTrafficLight (p2, c1, k15).
+1760440035: Client ArduinoTrafficLight already connected, closing old connection.
+1760440035: New client connected from 172.18.0.1:40444 as ArduinoTrafficLight (p2, c1, k15).
+1760440035: Client ArduinoTrafficLight already connected, closing old connection.
+1760440035: New client connected from 172.18.0.1:40410 as ArduinoTrafficLight (p2, c1, k15).
+1760440035: Client ArduinoTrafficLight already connected, closing old connection.
+1760440035: New client connected from 172.18.0.1:40386 as ArduinoTrafficLight (p2, c1, k15).
+1760440035: Client ArduinoTrafficLight already connected, closing old connection.
+1760440035: New client connected from 172.18.0.1:40378 as ArduinoTrafficLight (p2, c1, k15).
+1760440035: Client ArduinoTrafficLight already connected, closing old connection.
+1760440035: New client connected from 172.18.0.1:40428 as ArduinoTrafficLight (p2, c1, k15).
+1760440035: Client ArduinoTrafficLight already connected, closing old connection.
+1760440035: New client connected from 172.18.0.1:40450 as ArduinoTrafficLight (p2, c1, k15).
+1760440035: Client ArduinoTrafficLight already connected, closing old connection.
+1760440035: New client connected from 172.18.0.1:40394 as ArduinoTrafficLight (p2, c1, k15).
+1760440035: New connection from 172.18.0.1:40458 on port 1883.
+1760440035: New connection from 172.18.0.1:40496 on port 1883.
+1760440035: New connection from 172.18.0.1:40488 on port 1883.
+1760440035: New connection from 172.18.0.1:40470 on port 1883.
+1760440035: New connection from 172.18.0.1:40490 on port 1883.
+1760440035: New connection from 172.18.0.1:40456 on port 1883.
+1760440035: New connection from 172.18.0.1:40486 on port 1883.
+1760440035: Client ArduinoTrafficLight already connected, closing old connection.
+1760440035: New client connected from 172.18.0.1:40458 as ArduinoTrafficLight (p2, c1, k15).
+1760440035: Client ArduinoTrafficLight already connected, closing old connection.
+1760440035: New client connected from 172.18.0.1:40496 as ArduinoTrafficLight (p2, c1, k15).
+1760440035: Client ArduinoTrafficLight already connected, closing old connection.
+1760440035: New client connected from 172.18.0.1:40488 as ArduinoTrafficLight (p2, c1, k15).
+1760440035: Client ArduinoTrafficLight already connected, closing old connection.
+1760440035: New client connected from 172.18.0.1:40470 as ArduinoTrafficLight (p2, c1, k15).
+1760440035: Client ArduinoTrafficLight already connected, closing old connection.
+1760440035: New client connected from 172.18.0.1:40490 as ArduinoTrafficLight (p2, c1, k15).
+1760440035: Client ArduinoTrafficLight already connected, closing old connection.
+1760440035: New client connected from 172.18.0.1:40456 as ArduinoTrafficLight (p2, c1, k15).
+1760440035: Client ArduinoTrafficLight already connected, closing old connection.
+1760440035: New client connected from 172.18.0.1:40486 as ArduinoTrafficLight (p2, c1, k15).
+1760440035: Client ArduinoTrafficLight closed its connection.
+1760440035: New connection from 172.18.0.1:34100 on port 1883.
+1760440035: New client connected from 172.18.0.1:34100 as ArduinoTrafficLight (p2, c1, k15).
+1760440406: Client ArduinoTrafficLight closed its connection.
+1760440410: New connection from 172.18.0.1:52606 on port 1883.
+1760440410: New client connected from 172.18.0.1:52606 as ArduinoTrafficLight (p2, c1, k15).
+1760440799: New connection from 172.18.0.1:51010 on port 1883.
+1760440799: New connection from 172.18.0.1:51016 on port 1883.
+1760440799: New connection from 172.18.0.1:51028 on port 1883.
+1760440799: New connection from 172.18.0.1:51042 on port 1883.
+1760440799: New connection from 172.18.0.1:51048 on port 1883.
+1760440799: New connection from 172.18.0.1:51064 on port 1883.
+1760440799: New connection from 172.18.0.1:51068 on port 1883.
+1760440799: Client ArduinoTrafficLight already connected, closing old connection.
+1760440799: New client connected from 172.18.0.1:51010 as ArduinoTrafficLight (p2, c1, k15).
+1760440799: Client ArduinoTrafficLight already connected, closing old connection.
+1760440799: New client connected from 172.18.0.1:51016 as ArduinoTrafficLight (p2, c1, k15).
+1760440799: Client ArduinoTrafficLight already connected, closing old connection.
+1760440799: New client connected from 172.18.0.1:51028 as ArduinoTrafficLight (p2, c1, k15).
+1760440799: Client ArduinoTrafficLight already connected, closing old connection.
+1760440799: New client connected from 172.18.0.1:51042 as ArduinoTrafficLight (p2, c1, k15).
+1760440799: Client ArduinoTrafficLight already connected, closing old connection.
+1760440799: New client connected from 172.18.0.1:51048 as ArduinoTrafficLight (p2, c1, k15).
+1760440799: Client ArduinoTrafficLight already connected, closing old connection.
+1760440799: New client connected from 172.18.0.1:51064 as ArduinoTrafficLight (p2, c1, k15).
+1760440799: Client ArduinoTrafficLight already connected, closing old connection.
+1760440799: New client connected from 172.18.0.1:51068 as ArduinoTrafficLight (p2, c1, k15).
+1760440799: Client ArduinoTrafficLight closed its connection.
+1760440800: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760440803: New connection from 172.18.0.1:51082 on port 1883.
+1760440803: New client connected from 172.18.0.1:51082 as ArduinoTrafficLight (p2, c1, k15).
+1760441375: Client ArduinoTrafficLight closed its connection.
+1760441378: New connection from 172.18.0.1:42854 on port 1883.
+1760441378: New client connected from 172.18.0.1:42854 as ArduinoTrafficLight (p2, c1, k15).
+1760442485: Client ArduinoTrafficLight closed its connection.
+1760443154: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760444834: New connection from 172.18.0.1:53758 on port 1883.
+1760444834: New client connected from 172.18.0.1:53758 as ArduinoTrafficLight (p2, c1, k15).
+1760444869: Client ArduinoTrafficLight closed its connection.
+1760444878: New connection from 172.18.0.1:37706 on port 1883.
+1760444878: New client connected from 172.18.0.1:37706 as ArduinoTrafficLight (p2, c1, k15).
+1760444940: Client ArduinoTrafficLight closed its connection.
+1760445162: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760448400: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760450333: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760455353: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760455584: New connection from 172.18.0.1:35542 on port 1883.
+1760455584: New client connected from 172.18.0.1:35542 as ArduinoClient-2564 (p2, c1, k15).
+1760455589: Client auto-26B7A568-AC6B-2A6A-7F4F-1DDC930DB53A disconnected.
+1760455593: New connection from ::1:49728 on port 1883.
+1760455593: New client connected from ::1:49728 as auto-445B5D1B-3C5F-85AE-182A-7F79037C9DF3 (p2, c1, k60).
+1760455616: Client 1331d5b0-94e2-414b-99e3-f9156f120877 disconnected.
+1760455833: New connection from 172.18.0.1:51874 on port 1883.
+1760455833: New client connected from 172.18.0.1:51874 as 6008e337-41cc-4415-9890-cc602ae90e98 (p2, c1, k60).
+1760456376: Client 6008e337-41cc-4415-9890-cc602ae90e98 disconnected.
+1760456395: Client ArduinoClient-2564 closed its connection.
+1760456403: New connection from 172.18.0.1:34702 on port 1883.
+1760456403: New client connected from 172.18.0.1:34702 as ArduinoClient-329e (p2, c1, k15).
+1760456440: New connection from 172.18.0.1:57452 on port 1883.
+1760456440: New client connected from 172.18.0.1:57452 as dd4c0598-ee27-4a54-8006-ff96a8c713a6 (p2, c1, k60).
+1760456559: Client dd4c0598-ee27-4a54-8006-ff96a8c713a6 disconnected.
+1760456573: Client ArduinoClient-329e closed its connection.
+1760456721: New connection from 172.18.0.1:51302 on port 1883.
+1760456721: New client connected from 172.18.0.1:51302 as ArduinoClient-670b (p2, c1, k15).
+1760456743: Client auto-445B5D1B-3C5F-85AE-182A-7F79037C9DF3 disconnected.
+1760456810: New connection from ::1:60440 on port 1883.
+1760456810: New client connected from ::1:60440 as auto-AE824718-AFD6-C3CE-898E-8FE09F04DC64 (p2, c1, k60).
+1760456965: Client ArduinoClient-670b closed its connection.
+1760456974: New connection from 172.18.0.1:49142 on port 1883.
+1760456974: New client connected from 172.18.0.1:49142 as ArduinoClient-ea59 (p2, c1, k15).
+1760457005: Client auto-AE824718-AFD6-C3CE-898E-8FE09F04DC64 disconnected.
+1760457007: New connection from ::1:45462 on port 1883.
+1760457007: New client connected from ::1:45462 as auto-0F9C614D-5498-B30E-1EAE-16A16C69173E (p2, c1, k60).
+1760457154: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760457190: Client ArduinoClient-ea59 closed its connection.
+1760457198: New connection from 172.18.0.1:54360 on port 1883.
+1760457198: New client connected from 172.18.0.1:54360 as ArduinoClient-329e (p2, c1, k15).
+1760457280: Client ArduinoClient-329e closed its connection.
+1760457284: New connection from 172.18.0.1:46882 on port 1883.
+1760457284: New client connected from 172.18.0.1:46882 as ArduinoClient-41a7 (p2, c1, k15).
+1760457285: Client ArduinoClient-41a7 closed its connection.
+1760457293: New connection from 172.18.0.1:46894 on port 1883.
+1760457293: New client connected from 172.18.0.1:46894 as ArduinoClient-4bc7 (p2, c1, k15).
+1760457326: Client ArduinoClient-4bc7 closed its connection.
+1760457328: New connection from 172.18.0.1:40878 on port 1883.
+1760457328: New client connected from 172.18.0.1:40878 as ArduinoClient-41a7 (p2, c1, k15).
+1760457551: Client ArduinoClient-41a7 closed its connection.
+1760457556: New connection from 172.18.0.1:60112 on port 1883.
+1760457556: New client connected from 172.18.0.1:60112 as ArduinoClient-41a7 (p2, c1, k15).
+1760457556: Client ArduinoClient-41a7 closed its connection.
+1760457564: New connection from 172.18.0.1:40928 on port 1883.
+1760457564: New client connected from 172.18.0.1:40928 as ArduinoClient-4bc7 (p2, c1, k15).
+1760457715: Client ArduinoClient-4bc7 closed its connection.
+1760458066: New connection from 172.18.0.1:40496 on port 1883.
+1760458066: New client connected from 172.18.0.1:40496 as ArduinoClient-2564 (p2, c1, k15).
+1760458106: New connection from 172.18.0.1:59828 on port 1883.
+1760458106: New client connected from 172.18.0.1:59828 as f6a2f437-61cb-4d11-adca-0fe6a15a0dfa (p2, c1, k60).
+1760458176: Client f6a2f437-61cb-4d11-adca-0fe6a15a0dfa disconnected.
+1760458218: Client ArduinoClient-2564 closed its connection.
+1760458227: New connection from 172.18.0.1:34636 on port 1883.
+1760458227: New client connected from 172.18.0.1:34636 as ArduinoClient-af4f (p2, c1, k15).
+1760458232: Client ArduinoClient-af4f closed its connection.
+1760458232: New connection from 172.18.0.1:34646 on port 1883.
+1760458232: New client connected from 172.18.0.1:34646 as ArduinoClient-7800 (p2, c1, k15).
+1760458239: Client ArduinoClient-7800 closed its connection.
+1760458239: New connection from 172.18.0.1:48136 on port 1883.
+1760458239: New client connected from 172.18.0.1:48136 as ArduinoClient-b30a (p2, c1, k15).
+1760458243: Client auto-0F9C614D-5498-B30E-1EAE-16A16C69173E disconnected.
+1760458244: Client ArduinoClient-b30a closed its connection.
+1760458244: New connection from 172.18.0.1:45292 on port 1883.
+1760458244: New client connected from 172.18.0.1:45292 as ArduinoClient-ac6d (p2, c1, k15).
+1760458246: New connection from ::1:37896 on port 1883.
+1760458246: New client connected from ::1:37896 as auto-C18710F4-7660-541E-CA49-2A906F216D0D (p2, c1, k60).
+1760458249: Client ArduinoClient-ac6d closed its connection.
+1760458249: New connection from 172.18.0.1:45306 on port 1883.
+1760458249: New client connected from 172.18.0.1:45306 as ArduinoClient-291f (p2, c1, k15).
+1760458251: Client ArduinoClient-291f disconnected due to malformed packet.
+1760458380: New connection from 172.18.0.1:55160 on port 1883.
+1760458380: New client connected from 172.18.0.1:55160 as ArduinoClient-329e (p2, c1, k15).
+1760458382: Client ArduinoClient-329e closed its connection.
+1760458383: New connection from 172.18.0.1:55176 on port 1883.
+1760458383: New client connected from 172.18.0.1:55176 as ArduinoClient-7e9d (p2, c1, k15).
+1760458383: Client auto-C18710F4-7660-541E-CA49-2A906F216D0D disconnected.
+1760458384: Client ArduinoClient-7e9d closed its connection.
+1760458385: New connection from 172.18.0.1:37386 on port 1883.
+1760458385: New client connected from 172.18.0.1:37386 as ArduinoClient-6ac6 (p2, c1, k15).
+1760458385: New connection from ::1:44318 on port 1883.
+1760458385: New client connected from ::1:44318 as auto-38D0FB4C-4F42-CA4D-664B-AC0CDA44E7E8 (p2, c1, k60).
+1760458407: Client ArduinoClient-6ac6 has exceeded timeout, disconnecting.
+1760458509: New connection from 172.18.0.1:42194 on port 1883.
+1760458509: New client connected from 172.18.0.1:42194 as ArduinoClient-a8b2 (p2, c1, k15).
+1760458510: Client ArduinoClient-a8b2 closed its connection.
+1760458512: New connection from 172.18.0.1:42202 on port 1883.
+1760458512: New client connected from 172.18.0.1:42202 as ArduinoClient-6da8 (p2, c1, k15).
+1760458535: Client ArduinoClient-6da8 has exceeded timeout, disconnecting.
+1760458691: New connection from 172.18.0.1:54716 on port 1883.
+1760458691: New client connected from 172.18.0.1:54716 as ArduinoClient-670b (p2, c1, k15).
+1760458713: Client ArduinoClient-670b has exceeded timeout, disconnecting.
+1760458806: New connection from 172.18.0.1:57726 on port 1883.
+1760458806: New client connected from 172.18.0.1:57726 as ArduinoClient-ea59 (p2, c1, k15).
+1760458814: Client auto-38D0FB4C-4F42-CA4D-664B-AC0CDA44E7E8 disconnected.
+1760458817: New connection from ::1:32814 on port 1883.
+1760458817: New client connected from ::1:32814 as auto-E23A6B64-4305-44B8-05E0-7C5CE3575B3D (p2, c1, k60).
+1760458831: Client ArduinoClient-ea59 has exceeded timeout, disconnecting.
+1760458859: New connection from 172.18.0.1:37102 on port 1883.
+1760458859: New client connected from 172.18.0.1:37102 as ArduinoClient-6da8 (p2, c1, k15).
+1760458955: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1760459345: Client ArduinoClient-6da8 closed its connection.
+1760459348: New connection from 172.18.0.1:41830 on port 1883.
+1760459348: New client connected from 172.18.0.1:41830 as ArduinoClient-a8b2 (p2, c1, k15).
+1760459453: Client ArduinoClient-a8b2 closed its connection.
+1760459454: New connection from 172.18.0.1:59554 on port 1883.
+1760459454: New connection from 172.18.0.1:59556 on port 1883.
+1760459454: New client connected from 172.18.0.1:59554 as ArduinoClient-34ac (p2, c1, k15).
+1760459454: New client connected from 172.18.0.1:59556 as ArduinoClient-f023 (p2, c1, k15).
+1760459454: Client ArduinoClient-f023 closed its connection.
+1760459454: Client ArduinoClient-34ac closed its connection.
+1760459454: New connection from 172.18.0.1:38222 on port 1883.
+1760459454: New client connected from 172.18.0.1:38222 as ArduinoClient-8959 (p2, c1, k15).
+1760459800: Client ArduinoClient-8959 closed its connection.
+1760513828: New connection from 172.18.0.1:54140 on port 1883.
+1760513828: New client connected from 172.18.0.1:54140 as ArduinoClient-39b6 (p2, c1, k15).
