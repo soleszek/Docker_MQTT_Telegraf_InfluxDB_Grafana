@@ -1,0 +1,6 @@
+# Pliki generowane przez Mosquitto
+mosquitto/data/
+mosquitto/log/
+
+# Nieśledzony katalog (prawdopodobnie zbędny)
+Docker_MQTT_Telegraf_InfluxDB_Grafana/
