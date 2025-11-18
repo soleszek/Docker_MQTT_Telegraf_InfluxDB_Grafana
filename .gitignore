@@ -1,0 +1,36 @@
+# Mosquitto runtime data
+mosquitto/data/
+mosquitto/log/
+
+# Logi ogólne
+*.log
+logs/
+log/
+
+# Dane runtime / bazy
+data/
+**/data/
+**/volumes/
+**/db/
+**/*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Node / frontend (jeśli używasz)
+node_modules/
+dist/
+build/
+
+# IDE / edytory
+.vscode/
+.idea/
+*.iml
+
+# Backupy
+*.bak
+*.tmp

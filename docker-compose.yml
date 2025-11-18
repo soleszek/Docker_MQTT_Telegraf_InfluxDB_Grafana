@@ -1,4 +1,4 @@
-version: '3.7' # Lub nowsza wersja
+version: '3.7' 
 
 services:
   # ----------------------------------------------------
@@ -9,13 +9,12 @@ services:
     container_name: mosquitto
     restart: always
     ports:
-      - "1883:1883" # Standardowy port MQTT
-      - "9001:9001" # Port dla WebSockets (opcjonalny)
+      - "1883:1883" 
+      - "9001:9001" 
     volumes:
-      # Utwórz te katalogi lokalnie: mosquitto/config, mosquitto/data, mosquitto/log
-      - ./mosquitto/config:/mosquitto/config:ro # Wymagany plik mosquitto.conf
-      - ./mosquitto/data:/mosquitto/data        # Persistent data (np. mosquitto.db)
-      - ./mosquitto/log:/mosquitto/log          # Logi brokera
+      - ./mosquitto/config:/mosquitto/config:ro 
+      - ./mosquitto/data:/mosquitto/data       
+      - ./mosquitto/log:/mosquitto/log         
 
   # ----------------------------------------------------
   # 2. InfluxDB3 (bez zmian, do celów referencyjnych)
@@ -45,11 +44,11 @@ services:
   # ----------------------------------------------------
   telegraf:
     container_name: telegraf
-    image: telegraf
+    build: ./telegraf
     depends_on:
       influxdb3-core:
         condition: service_healthy
-      mosquitto: # Dodano zależność od Mosquitto
+      mosquitto:
         condition: service_started 
     environment:
       - INFLUXDB_HOST=${INFLUXDB_HOST}
@@ -59,8 +58,8 @@ services:
       - TELEGRAF_COLLECTION_INTERVAL=${TELEGRAF_COLLECTION_INTERVAL}
       - HOSTNAME=telegraf
     volumes:
-      # Pamiętaj, aby zaktualizować ten plik zgodnie z punktem 4!
       - ./telegraf/telegraf.conf:/etc/telegraf/telegraf.conf
+      - ./telegraf/add_recorded_ts.py:/etc/telegraf/add_recorded_ts.py
     restart: unless-stopped
 
   # ----------------------------------------------------
@@ -72,18 +71,88 @@ services:
       - "${GRAFANA_PORT}:3000"
     volumes:
       - grafana_data:/var/lib/grafana
-      # Jeśli dodajesz grafana.ini, zachowaj tę linię:
       - ./grafana/config/grafana.ini:/etc/grafana/grafana.ini:ro
     environment:
       - GF_SECURITY_ADMIN_USER=${GRAFANA_ADMIN_USER}
       - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_ADMIN_PASSWORD}
-      # ----------------------------------------------------
-      # DODAJ TĘ KRYTYCZNĄ LINIĘ:
       - GF_INFLUXDB_TLS_SKIP_VERIFY=true
-      # ----------------------------------------------------
     depends_on:
       - influxdb3-core
     restart: unless-stopped
+
+  # ----------------------------------------------------
+  # 5. YOLO Detector
+  # ----------------------------------------------------
+  yolo-detector:
+    build: ./yolo-detector
+    container_name: yolo-detector
+    restart: unless-stopped
+    depends_on:
+      - mosquitto
+    environment:
+      - MQTT_BROKER=mosquitto
+      - MQTT_PORT=1883
+      - YOLO_CONFIG_DIR=/app/.ultralytics   
+      - NVIDIA_VISIBLE_DEVICES=all     
+    volumes:
+      - "C:/upload:/app/uploads"
+      - "./yolo-detector/config:/app/.ultralytics"
+    networks:
+      - default
+    runtime: nvidia
+    ipc: host
+    ulimits:
+      memlock: -1
+      stack: 67108864
+
+  # ----------------------------------------------------
+  # 6. Upload Server
+  # ----------------------------------------------------
+  upload-server:
+    build: ./upload_server
+    container_name: upload-server
+    restart: unless-stopped
+    ports:
+      - "5000:5000"                
+    volumes:
+      - C:/upload:/app/uploads    
+    depends_on:
+      - mosquitto                  
+  
+  # ----------------------------------------------------
+  # 7. Reinforcement Learning Agent (A2C)
+  # ----------------------------------------------------
+  rl-agent:
+    container_name: rl-agent
+    build: ./RL-A2C
+    env_file: ./RL-A2C/config.env
+    depends_on:
+      - mosquitto
+      - influxdb3-core
+    restart: unless-stopped
+    environment:
+      - RL_MODE=infer
+      - BROKER_IP=mosquitto
+      - BROKER_PORT=1883
+      - MODEL_PATH=/app/models/a2c_traffic
+      - STEP_DELAY=2.0          # opcjonalnie małe opóźnienie między decyzjami
+    volumes:
+      - ./models:/app/models
+      - ./logs:/app/logs
+
+  # ----------------------------------------------------
+  # 8. MQTT Time Publisher
+  # ----------------------------------------------------
+  mqtt-time-publisher:
+    build: ./mqtt-time-publisher         
+    container_name: mqtt-time-publisher
+    restart: unless-stopped
+    environment:
+      - MQTT_HOST=mosquitto              
+    depends_on:
+      - mosquitto                        
+    networks:
+      - default
 
 volumes:
   influxdb_data:
