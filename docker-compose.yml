@@ -79,7 +79,6 @@ services:
     depends_on:
       - influxdb3-core
     restart: unless-stopped
-
   # ----------------------------------------------------
   # 5. YOLO Detector
   # ----------------------------------------------------

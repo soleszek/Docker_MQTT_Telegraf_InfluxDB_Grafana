@@ -4,31 +4,28 @@ from ultralytics import YOLO
 import paho.mqtt.client as mqtt
 from datetime import datetime
 
-# --- konfiguracja ---
-MQTT_BROKER = os.getenv("MQTT_BROKER", "mqtt")   # nazwa kontenera brokera
+# --- configuration---
+MQTT_BROKER = os.getenv("MQTT_BROKER", "mqtt")   # name of the MQTTbroker container
 MQTT_PORT = int(os.getenv("MQTT_PORT", 1883))
 MQTT_TOPIC_IN = "cam/new_image"
 MQTT_TOPIC_OUT = "traffic/cars"
-IMAGES_DIR = "/app/uploads"   # 🔹 zmieniono z "/app/images"
+IMAGES_DIR = "/app/uploads" 
 MODEL_PATH = "yolov8n.pt"
 
 vehicle_classes = {"car", "truck", "bus", "motorbike"}
 
-# --- inicjalizacja modelu YOLO ---
+# --- YOLO model initialization ---
 model = YOLO(MODEL_PATH)
-model.to('cuda')   # 🔹 dodano akcelerację CUDA
+model.to('cuda')   # 🔹 added CUDA acceleration
 print("✅ YOLO model loaded on CUDA")
 
-# --- MQTT: callback po odebraniu wiadomości ---
+# --- MQTT: callback on message received ---
 def on_message(client, userdata, msg):
     try:
         payload = json.loads(msg.payload.decode())
 
-        # -----------------------------
-        # 🔵 NOWE POLA Z UNITY
-        # -----------------------------
-        Ta = payload.get("Ta")          # czas Arduino
-        Tstart = int(time.time() * 1000)  # czas odebrania wiadomości MQTT
+        Ta = payload.get("Ta")          # Arduino time
+        Tstart = int(time.time() * 1000)  # MQTT message received time
         # -----------------------------
 
         filename = payload.get("file")
@@ -42,13 +39,13 @@ def on_message(client, userdata, msg):
         frame = cv2.imread(image_path)
         height, width, _ = frame.shape
 
-        # Dwie strefy (na razie umowne)
+        # Two zones (for now, arbitrary)
         areas = {
             "left":  [(0, height // 2), (width // 2, height)],
             "right": [(width // 2, height // 2), (width, height)]
         }
 
-        # Detekcja pojazdów
+        # Vehicle detection
         results = model(frame, verbose=False)
         vehicle_counts = {area: 0 for area in areas}
 
@@ -62,7 +59,7 @@ def on_message(client, userdata, msg):
                     if x1a <= cx <= x2a and y1a <= cy <= y2a:
                         vehicle_counts[area_name] += 1
 
-        # Duplikacja wyników: 2 strefy → 4 sygnalizatory
+        # Duplication of results: 2 zones → 4 traffic lights
         out_json = {
             "timestamp": int(time.time() * 1000),
             "0": vehicle_counts["left"],    # TLS1_IN
@@ -79,7 +76,7 @@ def on_message(client, userdata, msg):
     except Exception as e:
         print(f"❌ Error processing image: {e}")
 
-# --- konfiguracja klienta MQTT ---
+# --- MQTT client configuration ---
 client = mqtt.Client()
 client.on_message = on_message
 
@@ -87,5 +84,5 @@ client.connect(MQTT_BROKER, MQTT_PORT)
 client.subscribe(MQTT_TOPIC_IN)
 print(f"✅ Subscribed to {MQTT_TOPIC_IN} on {MQTT_BROKER}:{MQTT_PORT}")
 
-# --- główna pętla ---
+# --- main loop ---
 client.loop_forever()
